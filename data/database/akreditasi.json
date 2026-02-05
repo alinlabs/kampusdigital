@@ -1,0 +1,17 @@
+
+{
+  "target_predikat": "UNGGUL",
+  "skor_saat_ini": 355,
+  "proyeksi_tahun": "2025",
+  "kriteria": [
+    { "id": "C1", "name": "Visi, Misi, Tujuan & Strategi", "score": 3.8, "target": 4.0, "weight": 0.05, "status_dokumen": "Lengkap" },
+    { "id": "C2", "name": "Tata Pamong & Kerjasama", "score": 3.5, "target": 3.8, "weight": 0.10, "status_dokumen": "Kurang" },
+    { "id": "C3", "name": "Mahasiswa", "score": 3.2, "target": 3.5, "weight": 0.15, "status_dokumen": "Lengkap" },
+    { "id": "C4", "name": "Sumber Daya Manusia", "score": 3.0, "target": 3.5, "weight": 0.15, "status_dokumen": "Perlu Revisi" },
+    { "id": "C5", "name": "Keuangan & Sarpras", "score": 3.9, "target": 4.0, "weight": 0.10, "status_dokumen": "Lengkap" },
+    { "id": "C6", "name": "Pendidikan", "score": 3.6, "target": 3.8, "weight": 0.15, "status_dokumen": "Lengkap" },
+    { "id": "C7", "name": "Penelitian", "score": 2.8, "target": 3.5, "weight": 0.10, "status_dokumen": "Kurang" },
+    { "id": "C8", "name": "Pengabdian Kepada Masyarakat", "score": 3.0, "target": 3.5, "weight": 0.10, "status_dokumen": "Lengkap" },
+    { "id": "C9", "name": "Luaran Tridharma", "score": 3.4, "target": 3.8, "weight": 0.10, "status_dokumen": "Perlu Revisi" }
+  ]
+}

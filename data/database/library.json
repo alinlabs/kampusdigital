@@ -1,0 +1,39 @@
+
+[
+  {
+    "id": "LIB-001",
+    "judul": "Manajemen Strategik: Konsep & Kasus",
+    "penulis": "Fred R. David",
+    "kategori": "Buku Teks",
+    "stok": 5,
+    "tersedia": 3,
+    "gambar": "https://placehold.co/150x200/e2e8f0/1e293b?text=Strategic+Mgt"
+  },
+  {
+    "id": "LIB-002",
+    "judul": "Accounting Principles",
+    "penulis": "Weygandt, Kimmel, Kieso",
+    "kategori": "Buku Teks",
+    "stok": 10,
+    "tersedia": 8,
+    "gambar": "https://placehold.co/150x200/e2e8f0/1e293b?text=Accounting"
+  },
+  {
+    "id": "LIB-003",
+    "judul": "Marketing 4.0: Moving from Traditional to Digital",
+    "penulis": "Philip Kotler",
+    "kategori": "Referensi",
+    "stok": 4,
+    "tersedia": 0,
+    "gambar": "https://placehold.co/150x200/e2e8f0/1e293b?text=Marketing+4.0"
+  },
+  {
+    "id": "LIB-004",
+    "judul": "Macroeconomics",
+    "penulis": "N. Gregory Mankiw",
+    "kategori": "Buku Teks",
+    "stok": 15,
+    "tersedia": 12,
+    "gambar": "https://placehold.co/150x200/e2e8f0/1e293b?text=Macroeco"
+  }
+]

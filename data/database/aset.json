@@ -1,0 +1,8 @@
+
+[
+  { "id": "AST-001", "name": "Proyektor Epson X500", "code": "PRJ-001", "cond": "Baik", "loc": "R.301", "stat": "Tersedia" },
+  { "id": "AST-002", "name": "PC All-in-One Dell", "code": "PC-LAB-01", "cond": "Baik", "loc": "Lab Komputer", "stat": "Digunakan" },
+  { "id": "AST-003", "name": "AC Daikin 2PK", "code": "AC-A101", "cond": "Perlu Service", "loc": "R.A101", "stat": "Maintenance" },
+  { "id": "AST-004", "name": "Kursi Kuliah Chitose", "code": "KRS-A-001", "cond": "Baik", "loc": "Gedung A", "stat": "Tersedia" },
+  { "id": "AST-005", "name": "Papan Tulis Whiteboard", "code": "WB-B202", "cond": "Rusak Ringan", "loc": "R.B202", "stat": "Perlu Ganti" }
+]

@@ -1,0 +1,101 @@
+
+[
+  {
+    "id": "MHS-001",
+    "nim": "202300123",
+    "nama": "Alex Johnson",
+    "email": "alex.johnson@mhs.sekolahkudigital.my.id",
+    "no_hp": "081234567890",
+    "foto": "https://placehold.co/200x200/cbd5e1/1e293b?text=Alex",
+    "status": "Aktif",
+    "nik": "3201011205000001",
+    "tempat_lahir": "Bandung",
+    "tanggal_lahir": "2002-05-12",
+    "jenis_kelamin": "L",
+    "agama": "Islam",
+    "alamat_rumah": "Jl. Merdeka No. 10, Purwakarta",
+    "nama_ibu_kandung": "Siti Sarah",
+    "nama_ayah": "Budi Johnson",
+    "no_hp_ortu": "081298765432",
+    "akademik": {
+      "program_studi_id": "S1-MGT",
+      "angkatan": 2021,
+      "semester_saat_ini": 5,
+      "ipk": 3.85,
+      "sks_lulus": 138,
+      "dosen_wali_id": 1
+    },
+    "krs": [
+      { "jadwal_id": "JDL-001", "semester": 5, "status": "Disetujui" },
+      { "jadwal_id": "JDL-003", "semester": 5, "status": "Disetujui" }
+    ],
+    "skripsi": {
+        "judul": "Analisis Pengaruh Digital Marketing Terhadap Keputusan Pembelian Gen-Z di Marketplace Shopee",
+        "dosen_pembimbing_id": 1,
+        "tahapan": "BAB 2",
+        "progress": 40,
+        "tanggal_pengajuan": "2024-08-01"
+    }
+  },
+  {
+    "id": "MHS-002",
+    "nim": "202200555",
+    "nama": "Rina Sartika",
+    "email": "rina.sartika@mhs.sekolahkudigital.my.id",
+    "no_hp": "085678901234",
+    "foto": "https://placehold.co/200x200/eab308/ffffff?text=Rina",
+    "status": "Aktif",
+    "nik": "3201012010010002",
+    "tempat_lahir": "Subang",
+    "tanggal_lahir": "2003-10-20",
+    "jenis_kelamin": "P",
+    "agama": "Islam",
+    "alamat_rumah": "Jl. Veteran No. 45, Subang",
+    "nama_ibu_kandung": "Dewi Lestari",
+    "nama_ayah": "Joko Susilo",
+    "no_hp_ortu": "081312345678",
+    "akademik": {
+      "program_studi_id": "S1-MGT",
+      "angkatan": 2022,
+      "semester_saat_ini": 5,
+      "ipk": 3.62,
+      "sks_lulus": 102,
+      "dosen_wali_id": 1
+    },
+    "krs": [],
+    "skripsi": {
+        "judul": "Strategi Pengembangan UMKM Pasca Pandemi di Kabupaten Purwakarta",
+        "dosen_pembimbing_id": 1,
+        "tahapan": "PROPOSAL",
+        "progress": 20,
+        "tanggal_pengajuan": "2024-09-01"
+    }
+  },
+  {
+    "id": "MHS-003",
+    "nim": "202300124",
+    "nama": "Siti Aminah",
+    "email": "siti.aminah@mhs.sekolahkudigital.my.id",
+    "no_hp": "081987654321",
+    "foto": "https://placehold.co/200x200/f472b6/ffffff?text=Siti",
+    "status": "Cuti",
+    "nik": "3201011503020003",
+    "tempat_lahir": "Karawang",
+    "tanggal_lahir": "2003-03-15",
+    "jenis_kelamin": "P",
+    "agama": "Islam",
+    "alamat_rumah": "Perum Grand Taruma, Karawang",
+    "nama_ibu_kandung": "Hj. Fatimah",
+    "nama_ayah": "H. Ahmad",
+    "no_hp_ortu": "081122334455",
+    "akademik": {
+      "program_studi_id": "S1-AKT",
+      "angkatan": 2023,
+      "semester_saat_ini": 3,
+      "ipk": 3.45,
+      "sks_lulus": 64,
+      "dosen_wali_id": 2
+    },
+    "krs": []
+  }
+]

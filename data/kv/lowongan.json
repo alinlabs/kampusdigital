@@ -1,0 +1,170 @@
+
+[
+  { 
+    "id": "LOK-001",
+    "posisi": "Staff Administrasi Logistik", 
+    "perusahaan": "PT Indofood CBP Sukses Makmur Tbk", 
+    "lokasi": "Purwakarta, Jawa Barat", 
+    "tipe": "Full Time", 
+    "tanggal_posting": "01/02/2025",
+    "batas_lamaran": "30/09/2025",
+    "link_form": "https://forms.google.com/example",
+    "gaji": {
+      "min": 4500000,
+      "max": 5500000
+    },
+    "kontak": {
+      "email": "recruitment@indofood.co.id",
+      "whatsapp": "628123456789"
+    },
+    "sosial": {
+      "website": "https://www.indofood.com",
+      "instagram": "https://instagram.com/indofood",
+      "tiktok": "https://tiktok.com/@indofood",
+      "facebook": "https://facebook.com/indofood",
+      "linkedin": "https://linkedin.com/company/indofood"
+    },
+    "logo": "https://placehold.co/100x100/47fa90/ffffff?text=ICBP",
+    "deskripsi": "Bertanggung jawab atas pencatatan keluar masuk barang, pengelolaan dokumen jalan, dan rekapitulasi stok gudang distribusi.",
+    "syarat": [
+      "Pendidikan min. D3/S1 Segera Jurusan (Diutamakan Manajemen/Akuntansi)",
+      "Menguasai Microsoft Office (Excel Intermediate)",
+      "Teliti, rapi, dan komunikatif",
+      "Bersedia bekerja shift"
+    ],
+    "benefit": ["BPJS Kesehatan & Ketenagakerjaan", "Makan Siang", "Tunjangan Transport"]
+  },
+  { 
+    "id": "LOK-002",
+    "posisi": "Officer Development Program (ODP)", 
+    "perusahaan": "Bank BJB", 
+    "lokasi": "Bandung & Jabodetabek", 
+    "tipe": "Full Time", 
+    "tanggal_posting": "05/02/2025",
+    "batas_lamaran": "15/10/2025",
+    "link_form": "https://rekrutmen.bankbjb.co.id",
+    "gaji": {
+      "min": 7500000,
+      "max": 9000000
+    },
+    "kontak": {
+      "email": "rekrutmen@bankbjb.co.id",
+      "whatsapp": ""
+    },
+    "sosial": {
+      "website": "https://rekrutmen.bankbjb.co.id",
+      "instagram": "https://instagram.com/bankbjb",
+      "tiktok": "",
+      "linkedin": "https://linkedin.com/company/bankbjb"
+    },
+    "logo": "https://placehold.co/100x100/0ea5e9/ffffff?text=BJB",
+    "deskripsi": "Program percepatan karir untuk mencetak pemimpin masa depan di industri perbankan melalui rotasi divisi dan mentoring intensif.",
+    "syarat": [
+      "Lulusan S1/S2 semua jurusan (IPK min. 3.00)",
+      "Usia maksimal 25 tahun (S1) dan 27 tahun (S2)",
+      "Aktif berorganisasi dan memiliki jiwa kepemimpinan",
+      "Belum menikah dan bersedia tidak menikah selama pendidikan"
+    ],
+    "benefit": ["Jenjang Karir Cepat", "Bonus Tahunan", "Asuransi Kesehatan Keluarga"]
+  },
+  { 
+    "id": "LOK-003",
+    "posisi": "Junior Auditor Intern", 
+    "perusahaan": "KAP Santoso & Rekan", 
+    "lokasi": "Jakarta Selatan", 
+    "tipe": "Magang", 
+    "tanggal_posting": "10/02/2025",
+    "batas_lamaran": "31/12/2025",
+    "link_form": "",
+    "gaji": {
+      "min": 2500000,
+      "max": 3500000
+    },
+    "kontak": {
+      "email": "hrd@kapsantoso.com",
+      "whatsapp": "628987654321"
+    },
+    "sosial": {
+      "website": "https://kapsantoso.com",
+      "instagram": "",
+      "tiktok": "",
+      "linkedin": "https://linkedin.com/company/kapsantoso"
+    },
+    "logo": "https://placehold.co/100x100/64748b/ffffff?text=KAP",
+    "deskripsi": "Membantu tim auditor senior dalam prosedur audit lapangan, vouching dokumen, dan penyusunan kertas kerja pemeriksaan.",
+    "syarat": [
+      "Mahasiswa tingkat akhir S1 Akuntansi",
+      "Memahami dasar-dasar Auditing dan PSAK",
+      "Mampu bekerja di bawah tekanan (Peak Season)",
+      "Memiliki laptop pribadi"
+    ],
+    "benefit": ["Sertifikat Magang", "Uang Saku Kompetitif", "Peluang Diangkat Tetap"]
+  },
+  { 
+    "id": "LOK-004",
+    "posisi": "Social Media Specialist", 
+    "perusahaan": "Shopee Indonesia", 
+    "lokasi": "Remote / WFH", 
+    "tipe": "Part Time", 
+    "tanggal_posting": "12/02/2025",
+    "batas_lamaran": "20/11/2025",
+    "link_form": "https://careers.shopee.co.id",
+    "gaji": {
+      "min": 3000000,
+      "max": 5000000
+    },
+    "kontak": {
+      "email": "careers@shopee.co.id",
+      "whatsapp": ""
+    },
+    "sosial": {
+      "website": "https://careers.shopee.co.id",
+      "instagram": "https://instagram.com/lifeatshopee",
+      "tiktok": "https://tiktok.com/@shopee_id",
+      "facebook": "https://facebook.com/ShopeeID",
+      "linkedin": "https://linkedin.com/company/shopee"
+    },
+    "logo": "https://placehold.co/100x100/f97316/ffffff?text=Shopee",
+    "deskripsi": "Merancang dan mengeksekusi strategi konten media sosial untuk meningkatkan engagement dan brand awareness.",
+    "syarat": [
+      "Mahasiswa/Fresh Graduate jurusan Komunikasi/Manajemen/DKV",
+      "Familiar dengan tools analytics (IG, TikTok, Twitter)",
+      "Kreatif dan up-to-date dengan tren terkini",
+      "Memiliki portofolio konten"
+    ],
+    "benefit": ["Waktu Kerja Fleksibel", "Voucher Belanja", "Networking"]
+  },
+  {
+    "id": "LOK-005",
+    "posisi": "Finance & Accounting Staff",
+    "perusahaan": "PT Pertamina (Persero)",
+    "lokasi": "Jakarta Pusat",
+    "tipe": "Full Time", 
+    "tanggal_posting": "15/02/2025",
+    "batas_lamaran": "01/12/2025",
+    "link_form": "https://recruitment.pertamina.com",
+    "gaji": {
+      "min": 8000000,
+      "max": 12000000
+    },
+    "kontak": {
+      "email": "recruitment@pertamina.com",
+      "whatsapp": ""
+    },
+    "sosial": {
+      "website": "https://recruitment.pertamina.com",
+      "instagram": "https://instagram.com/pertamina",
+      "tiktok": "",
+      "linkedin": "https://linkedin.com/company/pertamina"
+    },
+    "logo": "https://placehold.co/100x100/ef4444/ffffff?text=PERTAMINA",
+    "deskripsi": "Mengelola transaksi keuangan harian, rekonsiliasi bank, dan membantu penyusunan laporan keuangan bulanan.",
+    "syarat": [
+      "S1 Akuntansi / Manajemen Keuangan",
+      "Pengalaman min. 1 tahun (Fresh Graduate dipersilakan melamar)",
+      "Menguasai SAP menjadi nilai tambah",
+      "Memiliki sertifikat Brevet A & B diutamakan"
+    ],
+    "benefit": ["Fasilitas Kesehatan Lengkap", "Bonus Kinerja", "Program Pensiun"]
+  }
+]

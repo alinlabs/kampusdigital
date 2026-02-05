@@ -1,0 +1,139 @@
+
+[
+  { 
+    "id": 1, 
+    "nama": "BEM Kampus Digital", 
+    "kategori": "Pemerintahan Mahasiswa", 
+    "logo": "https://placehold.co/150x150/eab308/ffffff?text=BEM", 
+    "gambar": "https://i.ibb.co.com/NgpdW1Jv/Cuplikan-layar-2026-02-03-130221.webp", 
+    "deskripsi": "Badan Eksekutif Mahasiswa (BEM) adalah lembaga eksekutif tertinggi di tingkat mahasiswa yang berfungsi sebagai wadah aspirasi dan pergerakan.",
+    "deskripsiLengkap": "BEM Kampus Digital berkomitmen untuk menjadi katalisator perubahan positif di lingkungan kampus. Kami menaungi berbagai Unit Kegiatan Mahasiswa dan Himpunan, serta menjembatani komunikasi antara mahasiswa dan rektorat. Program kerja kami berfokus pada pengembangan soft skill, kepemimpinan, dan pengabdian masyarakat.",
+    "visi": "Terwujudnya BEM Kampus Digital yang Sinergis, Aspiratif, dan Berintegritas menuju Kampus Berkemajuan.",
+    "misi": [
+      "Membangun sinergi internal yang solid dan profesional.",
+      "Mengadvokasi aspirasi mahasiswa secara responsif.",
+      "Menyelenggarakan kegiatan yang prestatif dan edukatif.",
+      "Meningkatkan peran mahasiswa dalam pengabdian masyarakat."
+    ],
+    "ketua": {
+      "nama": "Raka Pratama",
+      "nim": "202100155",
+      "foto": "https://placehold.co/200x200/cbd5e1/1e293b?text=Presma"
+    },
+    "statistik": {
+      "anggota": 45,
+      "proker": 24,
+      "divisi": 8
+    },
+    "kontak": { 
+      "lokasi": "Gedung A, Lt 1 (Student Center)", 
+      "sosmed": "@bemkampusdigital",
+      "email": "bem@sekolahkudigital.my.id"
+    },
+    "program_kerja": [
+        { "nama": "Latihan Kepemimpinan Mahasiswa", "status": "Terlaksana" },
+        { "nama": "Pekan Olahraga & Seni (PORSENI)", "status": "Segera" },
+        { "nama": "Kampus Mengabdi (Baksos)", "status": "Terlaksana" },
+        { "nama": "Seminar Nasional Kewirausahaan", "status": "Berjalan" }
+    ],
+    "anggota": [
+        { "nama": "Raka Pratama", "jabatan": "Presiden Mahasiswa", "foto": "https://placehold.co/150x150/cbd5e1/1e293b?text=RP", "wa": "6281234567890" },
+        { "nama": "Siti Aminah", "jabatan": "Wakil Presiden", "foto": "https://placehold.co/150x150/f472b6/ffffff?text=SA", "wa": "6289876543210" },
+        { "nama": "Budi Santoso", "jabatan": "Sekretaris Jenderal", "foto": "https://placehold.co/150x150/e2e8f0/475569?text=BS", "wa": "6281122334455" },
+        { "nama": "Dewi Lestari", "jabatan": "Bendahara Umum", "foto": "https://placehold.co/150x150/fef3c7/d97706?text=DL", "wa": "6285566778899" }
+    ],
+    "galeri": [
+      "https://i.ibb.co.com/pjc30B03/Cuplikan-layar-2026-02-03-130237.webp",
+      "https://i.ibb.co.com/BVcbVWvb/Cuplikan-layar-2026-02-03-130253.webp",
+      "https://i.ibb.co.com/8DWShPL0/Cuplikan-layar-2026-02-03-130307.webp"
+    ]
+  },
+  { 
+    "id": 2, 
+    "nama": "Mapala Kampus Digital", 
+    "kategori": "Minat Bakat", 
+    "logo": "https://placehold.co/150x150/22c55e/ffffff?text=MAPALA", 
+    "gambar": "https://i.ibb.co.com/VWLjXF5g/Cuplikan-layar-2026-02-03-130435.webp", 
+    "deskripsi": "Mahasiswa Pencinta Alam, wadah bagi mahasiswa yang memiliki hobi kegiatan alam bebas dan pelestarian lingkungan.", 
+    "deskripsiLengkap": "Mapala Kampus Digital bukan sekadar organisasi pendaki gunung, tetapi sekolah kehidupan. Kami mengajarkan survival skill, navigasi darat, panjat tebing, dan konservasi alam. Anggota kami dilatih untuk memiliki mental baja dan kepedulian tinggi terhadap lingkungan.",
+    "visi": "Menjadikan Mapala sebagai organisasi pelopor pelestarian lingkungan yang tangguh dan beretika.",
+    "misi": [
+      "Melaksanakan pendidikan dan latihan alam bebas.",
+      "Melakukan kampanye lingkungan hidup.",
+      "Membangun persaudaraan yang erat antar anggota."
+    ],
+    "ketua": {
+      "nama": "Dinda Kirana",
+      "nim": "202200312",
+      "foto": "https://placehold.co/200x200/f0fdf4/166534?text=Ketua"
+    },
+    "statistik": {
+      "anggota": 120,
+      "proker": 12,
+      "divisi": 4
+    },
+    "kontak": { 
+      "lokasi": "Basecamp Belakang (Gedung C)", 
+      "sosmed": "@mapalakd",
+      "email": "mapala@sekolahkudigital.my.id"
+    },
+    "program_kerja": [
+        { "nama": "Pendidikan Dasar (DIKSAR)", "status": "Terlaksana" },
+        { "nama": "Ekspedisi Gunung Ciremai", "status": "Segera" },
+        { "nama": "Penanaman 1000 Pohon", "status": "Berjalan" }
+    ],
+    "anggota": [
+        { "nama": "Dinda Kirana", "jabatan": "Ketua Umum", "foto": "https://placehold.co/150x150/f0fdf4/166534?text=DK", "wa": "6285678901234" },
+        { "nama": "Rian Ardiansyah", "jabatan": "Kadiv Gunung Hutan", "foto": "https://placehold.co/150x150/dcfce7/15803d?text=RA", "wa": "6281345678901" }
+    ],
+    "galeri": [
+      "https://i.ibb.co.com/VWLjXF5g/Cuplikan-layar-2026-02-03-130435.webp",
+      "https://i.ibb.co.com/8n2tbdwc/Cuplikan-layar-2026-02-03-130506.webp",
+      "https://i.ibb.co.com/BK3cd3jF/Cuplikan-layar-2026-02-03-130520.webp"
+    ]
+  },
+  { 
+    "id": 3, 
+    "nama": "Hima Manajemen", 
+    "kategori": "Himpunan", 
+    "logo": "https://placehold.co/150x150/f97316/ffffff?text=HIMA+MGT", 
+    "gambar": "https://i.ibb.co.com/RTtSnPSz/Cuplikan-layar-2026-02-03-130327.webp", 
+    "deskripsi": "Himpunan Mahasiswa Program Studi Manajemen. Wadah pengembangan akademik dan profesi mahasiswa manajemen.", 
+    "deskripsiLengkap": "Hima Manajemen berfokus pada pengembangan skill manajerial dan kewirausahaan. Kami rutin mengadakan seminar nasional, company visit, dan kompetisi business plan untuk mempersiapkan mahasiswa menghadapi dunia kerja profesional.",
+    "visi": "Mewujudkan mahasiswa manajemen yang profesional, kreatif, dan berdaya saing global.",
+    "misi": [
+      "Menyelenggarakan kegiatan akademik penunjang kurikulum.",
+      "Memfasilitasi pengembangan minat bakat mahasiswa manajemen.",
+      "Membangun jaringan dengan alumni dan praktisi bisnis."
+    ],
+    "ketua": {
+      "nama": "Adi Nugroho",
+      "nim": "202100444",
+      "foto": "https://placehold.co/200x200/fff7ed/9a3412?text=Kahim"
+    },
+    "statistik": {
+      "anggota": 800,
+      "proker": 18,
+      "divisi": 6
+    },
+    "kontak": { 
+      "lokasi": "Gedung C, Lt 2", 
+      "sosmed": "@himamgt",
+      "email": "hima.mgt@sekolahkudigital.my.id"
+    },
+    "program_kerja": [
+        { "nama": "Management Days", "status": "Segera" },
+        { "nama": "Company Visit: Bank Indonesia", "status": "Terlaksana" },
+        { "nama": "Workshop Digital Marketing", "status": "Berjalan" }
+    ],
+    "anggota": [
+        { "nama": "Adi Nugroho", "jabatan": "Ketua Himpunan", "foto": "https://placehold.co/150x150/fff7ed/9a3412?text=AN", "wa": "6287788990011" },
+        { "nama": "Lina Marlina", "jabatan": "Sekretaris", "foto": "https://placehold.co/150x150/ffedd5/c2410c?text=LM", "wa": "6281212121212" }
+    ],
+    "galeri": [
+      "https://i.ibb.co.com/RTtSnPSz/Cuplikan-layar-2026-02-03-130327.webp",
+      "https://i.ibb.co.com/Fbh7dPD7/Cuplikan-layar-2026-02-03-130358.webp",
+      "https://i.ibb.co.com/tMByLM9B/Cuplikan-layar-2026-02-03-130411.webp"
+    ]
+  }
+]

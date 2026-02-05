@@ -1,0 +1,65 @@
+
+[
+  {
+    "jadwal_id": "JDL-001",
+    "deskripsi_kelas": "Mata kuliah ini membahas konsep dasar manajemen strategis, mulai dari formulasi, implementasi, hingga evaluasi strategi untuk keunggulan kompetitif.",
+    "progress": 35,
+    "sesi": [
+      {
+        "pertemuan": 1,
+        "judul": "Pengantar Manajemen Strategik",
+        "tanggal": "2024-09-02",
+        "deskripsi": "Memahami definisi, manfaat, dan proses manajemen strategis dalam organisasi modern.",
+        "materi": [
+          { "tipe": "PDF", "judul": "Slide Pertemuan 1 - Konsep Dasar", "url": "#", "size": "2.4 MB" },
+          { "tipe": "VIDEO", "judul": "Video: Apa itu Strategi?", "url": "#", "durasi": "15 Menit" }
+        ],
+        "tugas": null
+      },
+      {
+        "pertemuan": 2,
+        "judul": "Analisis Lingkungan Eksternal",
+        "tanggal": "2024-09-09",
+        "deskripsi": "Menganalisis peluang dan ancaman menggunakan PESTEL dan Porter's Five Forces.",
+        "materi": [
+          { "tipe": "PDF", "judul": "Modul Analisis Eksternal", "url": "#", "size": "1.8 MB" }
+        ],
+        "tugas": {
+          "id": "TGS-001",
+          "judul": "Analisis Kasus Perusahaan Ritel",
+          "deadline": "2024-09-15T23:59:00",
+          "status": "Belum Diserahkan",
+          "deskripsi": "Buat analisis PESTEL untuk PT. Matahari Department Store Tbk. Format PDF maksimal 5MB."
+        }
+      },
+      {
+        "pertemuan": 3,
+        "judul": "Analisis Lingkungan Internal",
+        "tanggal": "2024-09-16",
+        "deskripsi": "Resource-Based View (RBV) dan Analisis Rantai Nilai.",
+        "materi": [
+          { "tipe": "PDF", "judul": "Internal Analysis & VRIO", "url": "#", "size": "3.1 MB" },
+          { "tipe": "LINK", "judul": "Bacaan: Studi Kasus Apple", "url": "#" }
+        ],
+        "tugas": null
+      }
+    ]
+  },
+  {
+    "jadwal_id": "JDL-002",
+    "deskripsi_kelas": "Mempelajari konsep POAC (Planning, Organizing, Actuating, Controlling) dalam organisasi bisnis.",
+    "progress": 10,
+    "sesi": [
+      {
+        "pertemuan": 1,
+        "judul": "Definisi Manajemen",
+        "tanggal": "2024-09-02",
+        "deskripsi": "Manajemen sebagai seni dan sains. Peran manajer dalam organisasi.",
+        "materi": [
+           { "tipe": "PDF", "judul": "RPS Pengantar Manajemen", "url": "#", "size": "500 KB" }
+        ],
+        "tugas": null
+      }
+    ]
+  }
+]

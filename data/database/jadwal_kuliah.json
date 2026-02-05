@@ -1,0 +1,39 @@
+
+[
+  { 
+    "id": "JDL-001", 
+    "matakuliah_id": "MK-001", 
+    "dosen_id": 1, 
+    "kelas_id": "KLS-A5", 
+    "hari": "Senin", 
+    "jam_mulai": "08:00", 
+    "jam_selesai": "10:30" 
+  },
+  { 
+    "id": "JDL-002", 
+    "matakuliah_id": "MK-002", 
+    "dosen_id": 2, 
+    "kelas_id": "KLS-B3", 
+    "hari": "Senin", 
+    "jam_mulai": "13:00", 
+    "jam_selesai": "15:30" 
+  },
+  { 
+    "id": "JDL-003", 
+    "matakuliah_id": "MK-003", 
+    "dosen_id": 4, 
+    "kelas_id": "KLS-A7", 
+    "hari": "Selasa", 
+    "jam_mulai": "09:00", 
+    "jam_selesai": "11:00" 
+  },
+  { 
+    "id": "JDL-004", 
+    "matakuliah_id": "MK-004", 
+    "dosen_id": 5, 
+    "kelas_id": "KLS-C1", 
+    "hari": "Kamis", 
+    "jam_mulai": "10:00", 
+    "jam_selesai": "12:00" 
+  }
+]

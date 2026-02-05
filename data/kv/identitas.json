@@ -1,0 +1,127 @@
+
+[
+  {
+    "nama": "Kampus Digital",
+    "logo": "https://i.ibb.co.com/Y41g2sD9/Generated-Image-February-02-2026-9-15-AM-1-removebg-preview.png",
+    "slogan": "Inovasi Pendidikan Masa Depan",
+    "deskripsi": "Kampus Digital adalah pelopor pendidikan tinggi berbasis teknologi. Mencetak talenta digital yang profesional, unggul, dan siap kerja di era industri 4.0.",
+    "teks_footer": "© 2025 Kampus Digital. All rights reserved.",
+    "kontak": {
+      "email": "info@sekolahkudigital.my.id",
+      "telepon": "(0264) 8224690",
+      "alamat": "Jl. Jenderal Ahmad Yani No.21, Purwakarta"
+    },
+    "sosial": {
+      "twitter": "#",
+      "instagram": "https://www.instagram.com/kampusdigital_official/",
+      "linkedin": "#"
+    },
+    "statistik": {
+        "teks": "Ribuan Alumni Sukses",
+        "subteks": "Berkiprah di BUMN & Swasta",
+        "jumlah": "5k+",
+        "userAvatars": [
+          "https://placehold.co/100x100/cbd5e1/1e293b?text=AL",
+          "https://placehold.co/100x100/e2e8f0/475569?text=BM",
+          "https://placehold.co/100x100/f1f5f9/64748b?text=CN",
+          "https://placehold.co/100x100/f8fafc/94a3b8?text=DO"
+        ],
+        "label": [
+            { "label": "Tahun Inovasi", "nilai": 24 },
+            { "label": "Alumni", "nilai": 5000 },
+            { "label": "Penghargaan", "nilai": 15 }
+        ]
+    },
+    "ringkasan": {
+      "judul": "Transformasi Pendidikan Digital",
+      "deskripsi": "Kampus Digital berkomitmen menghadirkan ekosistem pendidikan modern yang terintegrasi teknologi.",
+      "gambar": "https://i.ibb.co.com/BV18pLJt/alin-lab-gen-1770095025160.webp",
+      "label": "Inovasi"
+    },
+    "visi_misi": {
+      "visi": "Menjadi Kampus Digital Unggul Bidang Ekonomi Tahun 2030",
+      "misi": ["Pendidikan berbasis teknologi", "Riset ekonomi digital"]
+    },
+    "sejarah": [
+      {
+        "tahun": "2001",
+        "judul": "Berdiri",
+        "deskripsi": "Kampus Digital resmi didirikan.",
+        "gambar": "https://placehold.co/600x400/94a3b8/1e293b?text=Sejarah"
+      }
+    ],
+    "rekening": [
+      {
+        "id": "ACC-BNI-001",
+        "tipe": "BANK",
+        "bank": "BNI",
+        "nomor": "988-1234-5678",
+        "atasNama": "Yayasan Kampus Digital (Penerimaan UKT)",
+        "kategori": "Penerimaan Utama"
+      },
+      {
+        "id": "ACC-BCA-001",
+        "tipe": "BANK",
+        "bank": "BCA",
+        "nomor": "777-888-0000",
+        "atasNama": "Kampus Digital Operasional",
+        "kategori": "Operasional Harian"
+      },
+      {
+        "id": "ACC-MANDIRI-001",
+        "tipe": "BANK",
+        "bank": "Mandiri",
+        "nomor": "132-00-998877-6",
+        "atasNama": "Payroll Kampus Digital",
+        "kategori": "Penggajian"
+      },
+      {
+        "id": "ACC-GOPAY-001",
+        "tipe": "EWALLET",
+        "bank": "GoPay",
+        "nomor": "0812-3456-7890",
+        "atasNama": "Kampus Digital Merchant",
+        "kategori": "Merchant / Kantin"
+      },
+      {
+        "id": "ACC-OVO-001",
+        "tipe": "EWALLET",
+        "bank": "OVO",
+        "nomor": "0812-3456-7890",
+        "atasNama": "Kampus Digital",
+        "kategori": "Merchant"
+      },
+      {
+        "id": "ACC-QRIS-001",
+        "tipe": "QRIS",
+        "merchant": "Koperasi Kampus Digital",
+        "qris": "https://placehold.co/300x300/ffffff/000000?text=QRIS+KOPERASI",
+        "kategori": "Koperasi"
+      }
+    ],
+    "testimoni": [
+      {
+        "teks": "Kuliah di kelas karyawan sangat fleksibel.",
+        "penulis": "Rina Sartika",
+        "peran": "Alumni Manajemen 2020",
+        "gambar": "https://placehold.co/100x100/cbd5e1/1e293b?text=RS"
+      },
+      {
+        "teks": "Fasilitas lab komputer sangat update.",
+        "penulis": "Siti Nurhaliza",
+        "peran": "Mahasiswa Akuntansi",
+        "gambar": "https://placehold.co/100x100/f1f5f9/64748b?text=SN"
+      }
+    ],
+    "navigasi_footer": {
+      "Akademik": [
+        { "label": "Program Sarjana", "url": "#/studi" },
+        { "label": "Pascasarjana", "url": "#/studi" }
+      ],
+      "Ekosistem": [
+        { "label": "Fasilitas Modern", "url": "#/fasilitas" },
+        { "label": "Komunitas", "url": "#/organisasi" }
+      ]
+    }
+  }
+]

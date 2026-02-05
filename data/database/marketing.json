@@ -1,0 +1,43 @@
+
+[
+  {
+    "id": "LEAD-001",
+    "nama": "Citra Kirana",
+    "sumber": "Instagram",
+    "kontak": "08123456789",
+    "akun_sosmed": "@citra.k",
+    "status": "Follow Up",
+    "catatan": "Bertanya rincian biaya kelas karyawan",
+    "tanggal": "2024-09-20"
+  },
+  {
+    "id": "LEAD-002",
+    "nama": "Dimas Anggara",
+    "sumber": "WhatsApp",
+    "kontak": "08567890123",
+    "akun_sosmed": "-",
+    "status": "Hot Prospect",
+    "catatan": "Sangat berminat prodi Manajemen, menunggu gajian ortu",
+    "tanggal": "2024-09-21"
+  },
+  {
+    "id": "LEAD-003",
+    "nama": "Eka Saputra",
+    "sumber": "Website",
+    "kontak": "eka@gmail.com",
+    "akun_sosmed": "-",
+    "status": "Baru",
+    "catatan": "Mengisi form tanya jawab di website",
+    "tanggal": "2024-09-22"
+  },
+  {
+    "id": "LEAD-004",
+    "nama": "Fani Rahma",
+    "sumber": "Referral",
+    "kontak": "081122334455",
+    "akun_sosmed": "@fanirahma",
+    "status": "Closing",
+    "catatan": "Sudah mendaftar ID: REG-2024-005",
+    "tanggal": "2024-09-18"
+  }
+]

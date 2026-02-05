@@ -1,0 +1,56 @@
+
+[
+  {
+    "id": "S1-MGT",
+    "jenjang": "S1",
+    "nama": "S1 Manajemen",
+    "fakultas": "Sarjana Ekonomi",
+    "logo": "https://placehold.co/150x150/f97316/ffffff?text=MGT",
+    "ikon": "Briefcase",
+    "akreditasi": "Baik Sekali",
+    "durasi": "8 Semester",
+    "deskripsi": "Mencetak manajer profesional dengan kemampuan analisis bisnis yang tajam.",
+    "gambar": "https://placehold.co/1920x800/7c2d12/FFF?text=S1+MGT",
+    "kampus": "Pusat",
+    "kurikulum": [
+      { "semester": 1, "mataKuliah": ["Pengantar Bisnis", "Matematika Ekonomi", "Bahasa Inggris I", "Pancasila"] },
+      { "semester": 2, "mataKuliah": ["Manajemen Pemasaran", "Statistik", "Akuntansi Dasar", "Hukum Bisnis"] }
+    ],
+    "prospekKarir": ["Manajer Operasional", "HRD Specialist", "Business Analyst", "Entrepreneur"]
+  },
+  {
+    "id": "S1-AKT",
+    "jenjang": "S1",
+    "nama": "S1 Akuntansi",
+    "fakultas": "Sarjana Ekonomi",
+    "logo": "https://placehold.co/150x150/3b82f6/ffffff?text=AKT",
+    "ikon": "DollarSign",
+    "akreditasi": "Baik",
+    "durasi": "8 Semester",
+    "deskripsi": "Sarjana akuntansi kompeten dengan pemahaman mendalam tentang perpajakan dan audit.",
+    "gambar": "https://placehold.co/1920x800/1e40af/FFF?text=S1+AKT",
+    "kampus": "Pusat",
+    "kurikulum": [
+      { "semester": 1, "mataKuliah": ["Akuntansi Dasar", "Ekonomi Mikro", "Bahasa Indonesia", "Agama"] },
+      { "semester": 2, "mataKuliah": ["Akuntansi Keuangan 1", "Perpajakan 1", "Manajemen Keuangan", "Sistem Informasi"] }
+    ],
+    "prospekKarir": ["Akuntan Publik", "Auditor Internal", "Tax Consultant", "Financial Analyst"]
+  },
+  {
+    "id": "S2-MM",
+    "jenjang": "S2",
+    "nama": "Magister Manajemen",
+    "fakultas": "Pascasarjana",
+    "logo": "https://placehold.co/150x150/a855f7/ffffff?text=MM",
+    "ikon": "Award",
+    "akreditasi": "Baik Sekali",
+    "durasi": "4 Semester",
+    "deskripsi": "Program S2 untuk mencetak pemimpin strategis dan visioner.",
+    "gambar": "https://placehold.co/1920x800/581c87/FFF?text=Magister",
+    "kampus": "Pusat",
+    "kurikulum": [
+      { "semester": 1, "mataKuliah": ["Manajemen Strategik", "Metodologi Penelitian", "Ekonomi Manajerial"] }
+    ],
+    "prospekKarir": ["C-Level Executive", "Konsultan Bisnis", "Dosen/Akademisi", "Peneliti"]
+  }
+]

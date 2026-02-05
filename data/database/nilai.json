@@ -1,0 +1,19 @@
+
+[
+  { "id": "NIL-101", "mahasiswa_id": "MHS-001", "matakuliah_id": "MK-001", "dosen_id": 3, "nilai_angka": 85, "nilai_huruf": "A", "semester": 1, "status": "Final", "keterangan": "Lulus" },
+  { "id": "NIL-102", "mahasiswa_id": "MHS-001", "matakuliah_id": "MK-002", "dosen_id": 1, "nilai_angka": 82, "nilai_huruf": "A-", "semester": 1, "status": "Final", "keterangan": "Lulus" },
+  { "id": "NIL-103", "mahasiswa_id": "MHS-001", "matakuliah_id": "MK-003", "dosen_id": 4, "nilai_angka": 78, "nilai_huruf": "B+", "semester": 1, "status": "Final", "keterangan": "Lulus" },
+  { "id": "NIL-104", "mahasiswa_id": "MHS-001", "matakuliah_id": "MK-004", "dosen_id": 5, "nilai_angka": 88, "nilai_huruf": "A", "semester": 1, "status": "Final", "keterangan": "Lulus" },
+  
+  { "id": "NIL-201", "mahasiswa_id": "MHS-001", "matakuliah_id": "MK-006", "dosen_id": 3, "nilai_angka": 90, "nilai_huruf": "A", "semester": 2, "status": "Final", "keterangan": "Lulus" },
+  { "id": "NIL-202", "mahasiswa_id": "MHS-001", "matakuliah_id": "MK-005", "dosen_id": 2, "nilai_angka": 75, "nilai_huruf": "B", "semester": 2, "status": "Final", "keterangan": "Lulus" },
+  
+  { "id": "NIL-301", "mahasiswa_id": "MHS-001", "matakuliah_id": "MK-007", "dosen_id": 1, "nilai_angka": 70, "nilai_huruf": "B", "semester": 3, "status": "Final", "keterangan": "Lulus" },
+  { "id": "NIL-302", "mahasiswa_id": "MHS-001", "matakuliah_id": "MK-010", "dosen_id": 2, "nilai_angka": 85, "nilai_huruf": "A", "semester": 3, "status": "Final", "keterangan": "Lulus" },
+  
+  { "id": "NIL-401", "mahasiswa_id": "MHS-001", "matakuliah_id": "MK-008", "dosen_id": 1, "nilai_angka": 0, "nilai_huruf": "-", "semester": 5, "status": "Aktif", "keterangan": "Sedang Ditempuh" },
+  { "id": "NIL-402", "mahasiswa_id": "MHS-001", "matakuliah_id": "MK-009", "dosen_id": 3, "nilai_angka": 0, "nilai_huruf": "-", "semester": 5, "status": "Aktif", "keterangan": "Sedang Ditempuh" },
+
+  { "id": "NIL-X01", "mahasiswa_id": "MHS-002", "matakuliah_id": "MK-001", "dosen_id": 3, "nilai_angka": 92, "nilai_huruf": "A", "semester": 1, "status": "Final", "keterangan": "Lulus" },
+  { "id": "NIL-X02", "mahasiswa_id": "MHS-002", "matakuliah_id": "MK-005", "dosen_id": 2, "nilai_angka": 88, "nilai_huruf": "A", "semester": 1, "status": "Final", "keterangan": "Lulus" }
+]

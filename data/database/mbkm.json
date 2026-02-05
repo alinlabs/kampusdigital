@@ -1,0 +1,13 @@
+
+{
+  "program": [
+    { "id": "P01", "nama": "Magang Bersertifikat", "mitra": "PT Telkom Indonesia", "kuota": 20, "status": "Buka" },
+    { "id": "P02", "nama": "Studi Independen", "mitra": "Google Bangkit", "kuota": 50, "status": "Buka" },
+    { "id": "P03", "nama": "Pertukaran Mahasiswa Merdeka", "mitra": "Kemdikbud", "kuota": 10, "status": "Tutup" },
+    { "id": "P04", "nama": "Kampus Mengajar", "mitra": "SD/SMP Daerah 3T", "kuota": 30, "status": "Buka" }
+  ],
+  "pengajuan": [
+    { "id": "MBKM-001", "mahasiswa": "Alex Johnson", "program": "Magang Bersertifikat", "status": "Disetujui", "konversi_sks": 20 },
+    { "id": "MBKM-002", "mahasiswa": "Siti Aminah", "program": "Kampus Mengajar", "status": "Menunggu Review", "konversi_sks": 0 }
+  ]
+}

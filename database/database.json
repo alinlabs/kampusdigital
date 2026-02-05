@@ -1,0 +1,583 @@
+
+{
+  "identitas": {
+    "nama": "Kampus Digital",
+    "logo": "https://placehold.co/200x200/4f46e5/ffffff?text=KD",
+    "slogan": "Inovasi Pendidikan Masa Depan",
+    "deskripsi": "Pelopor pendidikan tinggi berbasis teknologi. Mencetak talenta digital yang profesional, unggul, dan siap kerja.",
+    "teks_footer": "© 2025 Kampus Digital. All rights reserved.",
+    "kontak": {
+      "email": "info@sekolahkudigital.my.id",
+      "telepon": "(0264) 8224690",
+      "alamat": "Jl. Jenderal Ahmad Yani No.21, Purwakarta"
+    },
+    "sosial": {
+      "twitter": "#",
+      "instagram": "https://www.instagram.com/kampusdigital_official/",
+      "linkedin": "#"
+    },
+    "navigasi_footer": [
+      {
+        "judul": "Akademik",
+        "item": [
+          { "label": "Program Sarjana", "url": "#/studi" },
+          { "label": "Pascasarjana", "url": "#/studi" }
+        ]
+      },
+      {
+        "judul": "Ekosistem",
+        "item": [
+          { "label": "Fasilitas Modern", "url": "#/fasilitas" },
+          { "label": "Komunitas", "url": "#/organisasi" }
+        ]
+      }
+    ]
+  },
+  "metadata_global": {
+    "default": {
+      "judul": "Kampus Digital - Pendidikan Masa Depan",
+      "deskripsi": "Kampus Digital Ekonomi Terbaik.",
+      "gambar": "https://placehold.co/1200x630/4f46e5/ffffff?text=Kampus+Digital"
+    }
+  },
+  "pengguna": [
+    {
+      "id": "U001",
+      "username": "mhs1",
+      "nama": "Alex Johnson",
+      "peran": "STUDENT",
+      "id_nomor": "202300123",
+      "prodi": "Manajemen",
+      "avatar": "https://placehold.co/200x200/cbd5e1/1e293b?text=Alex"
+    },
+    {
+      "id": "U002",
+      "username": "dosen1",
+      "nama": "Dr. Sarah Smith",
+      "peran": "LECTURER",
+      "id_nomor": "19880101",
+      "prodi": "",
+      "avatar": "https://placehold.co/200x200/f1f5f9/1e293b?text=Sarah"
+    },
+    {
+      "id": "U003",
+      "username": "kahim_mgt",
+      "nama": "Ketua Hima MGT",
+      "peran": "STUDENT",
+      "id_nomor": "202200555",
+      "prodi": "Manajemen",
+      "avatar": "https://placehold.co/200x200/eab308/ffffff?text=HIMA"
+    }
+  ],
+  "halaman": {
+    "beranda": {
+      "metadata": { 
+        "title": "Beranda - Kampus Digital", 
+        "description": "Membangun Generasi Unggul Ekonomi Masa Depan.",
+        "image": "https://placehold.co/1200x630/4f46e5/ffffff?text=Kampus+Digital+Home" 
+      },
+      "banner": {
+        "badge": "Penerimaan Mahasiswa Baru",
+        "barisJudul1": "Membangun",
+        "sorotanJudul": "Generasi Unggul",
+        "barisJudul2": "Ekonomi Masa Depan",
+        "deskripsi": "Bergabunglah dengan Kampus Digital, tempat lahirnya para pemimpin bisnis masa depan.",
+        "backgroundLatar": "https://placehold.co/1920x1080/1e293b/ffffff?text=Campus+Video",
+        "statistik": {
+          "teks": "Ribuan Alumni Sukses",
+          "subteks": "Berkiprah di BUMN & Swasta",
+          "jumlah": "5k+",
+          "userAvatars": [
+            "https://placehold.co/100x100/cbd5e1/1e293b?text=AL",
+            "https://placehold.co/100x100/e2e8f0/475569?text=BM",
+            "https://placehold.co/100x100/f1f5f9/64748b?text=CN",
+            "https://placehold.co/100x100/f8fafc/94a3b8?text=DO"
+          ]
+        }
+      },
+      "mitra": ["Bank BJB", "Pemkab Purwakarta", "Indosat", "Indofood"],
+      "testimoni": [
+        {
+          "teks": "Kuliah di kelas karyawan sangat fleksibel.",
+          "penulis": "Rina Sartika",
+          "peran": "Alumni Manajemen 2020",
+          "gambar": "https://placehold.co/100x100/cbd5e1/1e293b?text=RS"
+        },
+        {
+          "teks": "Fasilitas lab komputer sangat update.",
+          "penulis": "Siti Nurhaliza",
+          "peran": "Mahasiswa Akuntansi",
+          "gambar": "https://placehold.co/100x100/f1f5f9/64748b?text=SN"
+        }
+      ],
+      "seksi": {
+        "info_fasilitas": {
+          "judul": "Fasilitas Modern",
+          "deskripsi": "Menunjang pembelajaran dengan teknologi terkini."
+        },
+        "pendaftaran": {
+          "judul": "Siap Memulai?",
+          "badge": "Jalur Masuk",
+          "jalur": [
+            {"judul": "Jalur Reguler", "deskripsi": "Untuk lulusan SMA/SMK/MA sederajat.", "ikon": "Star", "fitur": ["Tanpa Syarat Khusus", "Tes Potensi Akademik"]},
+            {"judul": "Jalur Prestasi", "deskripsi": "Tanpa tes untuk siswa berprestasi.", "ikon": "Award", "fitur": ["Rapor Semester 1-5", "Sertifikat Juara"]},
+            {"judul": "Kelas Karyawan", "deskripsi": "Kuliah sambil bekerja.", "ikon": "Briefcase", "fitur": ["Jadwal Fleksibel", "Hybrid Learning"]},
+            {"judul": "Pindahan", "deskripsi": "Lanjutkan studi Anda di sini.", "ikon": "BookOpen", "fitur": ["Konversi SKS", "Waktu Singkat"]}
+          ]
+        },
+        "info_galeri": {
+          "judul": "Galeri Kegiatan"
+        },
+        "info_koperasi": {
+          "judul": "Koperasi Mahasiswa",
+          "deskripsi": "Penuhi kebutuhan kuliah dan lifestyle."
+        }
+      }
+    },
+    "ejournal": {
+      "metadata": { 
+        "title": "E-Journal Kampus Digital", 
+        "description": "Publikasi Ilmiah dan Jurnal Akademik Kampus Digital."
+      },
+      "hero": {
+        "judul": "E-Journal & Publikasi",
+        "deskripsi": "Repositori karya ilmiah dosen dan mahasiswa Kampus Digital.",
+        "badge": "Open Access",
+        "backgroundLatar": "https://placehold.co/1920x800/1e293b/ffffff?text=E-Journal"
+      },
+      "kategori": ["Manajemen", "Akuntansi", "Ekonomi Pembangunan", "Bisnis Digital"],
+      "statistik": {
+        "volume": 14,
+        "sitasi": "1.2k",
+        "h_index": 5
+      }
+    },
+    "tentang": {
+      "metadata": { 
+        "title": "Tentang Kami - Kampus Digital", 
+        "description": "Profil, Sejarah, Visi Misi, dan Pimpinan Kampus Digital.",
+        "image": "https://placehold.co/1200x630/1e293b/ffffff?text=Tentang+Kami"
+      },
+      "hero": {
+        "judul": "Tentang Kampus Digital",
+        "deskripsi": "Institusi pendidikan tinggi berbasis teknologi sejak 2001.",
+        "badge": "Profil Kampus",
+        "backgroundLatar": "https://placehold.co/1920x800/1e293b/ffffff?text=About"
+      },
+      "ringkasan": {
+        "judul": "Transformasi Pendidikan Digital",
+        "deskripsi": "Kampus Digital berkomitmen menghadirkan ekosistem pendidikan modern yang terintegrasi teknologi.",
+        "gambar": "https://placehold.co/800x600/cbd5e1/1e293b?text=Smart+Campus",
+        "badge": "Inovasi",
+        "statistik": [
+          { "label": "Tahun Inovasi", "nilai": 24, "akhiran": "+", "ikon": "Target" },
+          { "label": "Alumni", "nilai": 5000, "akhiran": "+", "ikon": "Users" },
+          { "label": "Penghargaan", "nilai": 15, "akhiran": "", "ikon": "Award" }
+        ]
+      },
+      "visi_misi": {
+        "visi": "Menjadi Kampus Digital Unggul Bidang Ekonomi Tahun 2030",
+        "misi": ["Pendidikan berbasis teknologi", "Riset ekonomi digital"]
+      },
+      "sejarah": [
+        {
+          "tahun": "2001",
+          "judul": "Berdiri",
+          "deskripsi": "Kampus Digital resmi didirikan.",
+          "gambar": "https://placehold.co/600x400/94a3b8/1e293b?text=Sejarah"
+        }
+      ]
+    },
+    "pendaftaran": {
+      "metadata": { 
+        "title": "PMB Online - Kampus Digital", 
+        "description": "Sistem Penerimaan Mahasiswa Baru Kampus Digital. Daftar Online Sekarang!",
+        "image": "https://placehold.co/1200x630/4f46e5/ffffff?text=PMB+Online"
+      },
+      "hero": {
+        "judul": "Penerimaan Mahasiswa Baru",
+        "deskripsi": "Wujudkan masa depan gemilang bersama Kampus Digital.",
+        "badge": "PMB Online",
+        "backgroundLatar": "https://placehold.co/1920x800/4f46e5/ffffff?text=PMB"
+      },
+      "gelombang": [
+        {
+          "nama": "Gelombang 1 (Early Bird)",
+          "tanggal": "1 Jan - 31 Mar 2025",
+          "status": "Tutup",
+          "deskripsi": "Jalur khusus tanpa tes untuk siswa berprestasi. Bebas biaya pendaftaran 50%.",
+          "ujian": "Seleksi Rapor / Sertifikat",
+          "pengumuman": "3 Hari Kerja"
+        },
+        {
+          "nama": "Gelombang 2 (Reguler CBT)",
+          "tanggal": "1 Apr - 30 Jun 2025",
+          "status": "Buka",
+          "deskripsi": "Jalur umum menggunakan tes potensi akademik berbasis komputer (CBT).",
+          "ujian": "CBT Online (Sabtu & Minggu)",
+          "pengumuman": "1x24 Jam"
+        },
+        {
+          "nama": "Gelombang 3 (Mandiri)",
+          "tanggal": "1 Jul - 31 Agu 2025",
+          "status": "Segera",
+          "deskripsi": "Kesempatan terakhir untuk bergabung sebelum masa orientasi (PKKMB).",
+          "ujian": "One Day Service",
+          "pengumuman": "Langsung di Tempat"
+        }
+      ],
+      "alur": [
+        { "step": "1", "judul": "Registrasi Akun", "desc": "Buat akun pendaftaran menggunakan email aktif dan nomor WhatsApp." },
+        { "step": "2", "judul": "Lengkapi Biodata", "desc": "Isi formulir data diri, data orang tua, dan asal sekolah sesuai dokumen resmi." },
+        { "step": "3", "judul": "Pembayaran", "desc": "Lakukan pembayaran biaya pendaftaran melalui Virtual Account atau Transfer Bank." },
+        { "step": "4", "judul": "Ujian Seleksi", "desc": "Ikuti Tes Potensi Akademik (TPA) secara online atau seleksi berkas (Jalur Prestasi)." },
+        { "step": "5", "judul": "Daftar Ulang", "desc": "Jika dinyatakan Lulus, lakukan daftar ulang dan pembayaran biaya awal kuliah." }
+      ],
+      "biaya": [
+        {
+          "kategori": "REGISTRASI",
+          "total": 650000,
+          "nilai_angka": { "daftar": 300000, "jaket": 250000, "ktm": 100000 }
+        },
+        {
+          "kategori": "KULIAH",
+          "fakultas": "S1 Manajemen",
+          "total": 4500000,
+          "nilai_angka": { "dsp": 3500000, "spp": 450000, "sks": 85000, "est_sks": 20, "lab": 150000, "matrikulasi": 250000 }
+        },
+        {
+          "kategori": "KULIAH",
+          "fakultas": "S1 Akuntansi",
+          "total": 4600000,
+          "nilai_angka": { "dsp": 3500000, "spp": 450000, "sks": 90000, "est_sks": 20, "lab": 200000, "matrikulasi": 250000 }
+        },
+        {
+          "kategori": "KULIAH",
+          "fakultas": "S2 Magister Manajemen",
+          "total": 7500000,
+          "nilai_angka": { "dsp": 5000000, "spp": 750000, "sks": 250000, "est_sks": 15, "lab": 0, "matrikulasi": 1000000 }
+        }
+      ]
+    },
+    "akademik": {
+      "hero": { "judul": "Program Studi", "badge": "Akademik", "backgroundLatar": "https://placehold.co/1920x800/1e293b/ffffff?text=Akademik" },
+      "filter": ["All", "Sarjana", "Pascasarjana"],
+      "metadata": { 
+        "title": "Program Studi - Kampus Digital", 
+        "description": "Temukan Program Studi Sarjana dan Pascasarjana sesuai minatmu.",
+        "image": "https://placehold.co/1200x630/1e293b/ffffff?text=Akademik"
+      }
+    },
+    "karir": {
+      "hero": { "judul": "Pengembangan Karir", "badge": "Karir Center", "backgroundLatar": "https://placehold.co/1920x800/1e293b/ffffff?text=Karir" },
+      "mitra": ["Bank BJB", "Indofood", "Pertamina", "Shopee"],
+      "metadata": { 
+        "title": "Pusat Karir - Kampus Digital", 
+        "description": "Informasi lowongan kerja, magang, dan pelatihan skill untuk mahasiswa.",
+        "image": "https://placehold.co/1200x630/1e293b/ffffff?text=Karir+Center"
+      }
+    },
+    "organisasi": {
+      "hero": { "judul": "Organisasi Mahasiswa", "badge": "Kemahasiswaan", "backgroundLatar": "https://placehold.co/1920x800/1e293b/ffffff?text=Ormawa" },
+      "metadata": { 
+        "title": "Organisasi Mahasiswa - Kampus Digital", 
+        "description": "Salurkan minat dan bakat melalui Unit Kegiatan Mahasiswa Kampus Digital.",
+        "image": "https://placehold.co/1200x630/1e293b/ffffff?text=Ormawa"
+      }
+    },
+    "berita": {
+      "hero": { "judul": "Berita & Kegiatan", "badge": "Update", "backgroundLatar": "https://placehold.co/1920x800/1e293b/ffffff?text=News" },
+      "kategori": ["Semua", "Akademik", "Prestasi"],
+      "metadata": { 
+        "title": "Berita & Kegiatan - Kampus Digital", 
+        "description": "Update terbaru seputar kegiatan kampus dan prestasi akademik.",
+        "image": "https://placehold.co/1200x630/1e293b/ffffff?text=Berita+Kampus"
+      }
+    },
+    "galeri": {
+      "hero": { "judul": "Galeri Kampus", "badge": "Visual", "backgroundLatar": "https://placehold.co/1920x800/1e293b/ffffff?text=Gallery" },
+      "kategori": ["Semua", "Fasilitas"],
+      "metadata": { 
+        "title": "Galeri Kampus - Kampus Digital", 
+        "description": "Dokumentasi visual fasilitas dan kegiatan Kampus Digital.",
+        "image": "https://placehold.co/1200x630/1e293b/ffffff?text=Galeri"
+      }
+    },
+    "prestasi": {
+      "hero_alumni": { "judul": "Kiprah Alumni", "deskripsi": "Jejak sukses para lulusan di kancah nasional.", "backgroundLatar": "https://placehold.co/1920x800/1e293b/ffffff?text=Alumni" },
+      "hero_mahasiswa": { "judul": "Mahasiswa Berprestasi", "deskripsi": "Bukti kualitas pendidikan Kampus Digital.", "backgroundLatar": "https://placehold.co/1920x800/1e293b/ffffff?text=Prestasi" },
+      "metadata": { 
+        "title": "Prestasi & Alumni - Kampus Digital", 
+        "description": "Hall of Fame Mahasiswa Berprestasi dan Alumni Sukses.",
+        "image": "https://placehold.co/1200x630/1e293b/ffffff?text=Prestasi"
+      }
+    },
+    "koperasi": {
+      "hero": { "judul": "Kampus Store", "badge": "Store", "deskripsi": "Belanja kebutuhan kuliah dan merchandise.", "backgroundLatar": "https://placehold.co/1920x800/1e293b/ffffff?text=Store" },
+      "info_bank": { "bank": "BNI", "nomor": "988-1234-5678", "atasNama": "Kopma Kampus Digital" },
+      "metadata": { 
+        "title": "Store - Kampus Digital", 
+        "description": "Official Merchandise Store.",
+        "image": "https://placehold.co/1200x630/1e293b/ffffff?text=Store"
+      }
+    }
+  },
+  "data_induk": {
+    "ejournal": [
+        {
+            "id": "JRN-001",
+            "judul": "Analisis Pengaruh Digital Marketing Terhadap Keputusan Pembelian Gen-Z",
+            "penulis": "Dr. Sarah Smith, Alex Johnson",
+            "abstrak": "Penelitian ini bertujuan untuk mengetahui pengaruh pemasaran digital terhadap keputusan pembelian mahasiswa generasi Z.",
+            "kategori": "Manajemen",
+            "tahun": "2024",
+            "volume": "Vol 12, No 1",
+            "link": "#",
+            "gambar": "https://placehold.co/400x500/e0e7ff/4338ca?text=Jurnal+Mgt"
+        },
+        {
+            "id": "JRN-002",
+            "judul": "Penerapan Standar Akuntansi Keuangan Entitas Mikro Kecil Menengah (SAK EMKM)",
+            "penulis": "Budi Santoso, S.E., M.Ak.",
+            "abstrak": "Studi kasus pada UMKM kuliner mengenai kesiapan dan kendala penerapan SAK EMKM.",
+            "kategori": "Akuntansi",
+            "tahun": "2023",
+            "volume": "Vol 11, No 2",
+            "link": "#",
+            "gambar": "https://placehold.co/400x500/ecfccb/3f6212?text=Jurnal+Akt"
+        },
+        {
+            "id": "JRN-003",
+            "judul": "Strategi Pengembangan Pariwisata Berbasis Kearifan Lokal",
+            "penulis": "Tim Peneliti Kampus Digital",
+            "abstrak": "Potensi pariwisata lokal sebagai penggerak ekonomi daerah pasca pandemi.",
+            "kategori": "Ekonomi Pembangunan",
+            "tahun": "2024",
+            "volume": "Vol 12, No 1",
+            "link": "#",
+            "gambar": "https://placehold.co/400x500/fef3c7/92400e?text=Jurnal+Eko"
+        }
+    ],
+    "program_studi": [
+      {
+        "id": "S1-MGT",
+        "jenjang": "S1",
+        "nama": "S1 Manajemen",
+        "fakultas": "Sarjana Ekonomi",
+        "logo": "https://placehold.co/150x150/f97316/ffffff?text=MGT",
+        "ikon": "Briefcase",
+        "akreditasi": "Baik Sekali",
+        "durasi": "8 Semester",
+        "deskripsi": "Mencetak manajer profesional dengan kemampuan analisis bisnis yang tajam.",
+        "gambar": "https://placehold.co/1920x800/7c2d12/FFF?text=S1+MGT",
+        "biaya": 4500000,
+        "kampus": "Pusat",
+        "kurikulum": [
+          { "semester": 1, "mataKuliah": ["Pengantar Bisnis", "Matematika Ekonomi", "Bahasa Inggris I", "Pancasila"] },
+          { "semester": 2, "mataKuliah": ["Manajemen Pemasaran", "Statistik", "Akuntansi Dasar", "Hukum Bisnis"] }
+        ],
+        "prospekKarir": ["Manajer Operasional", "HRD Specialist", "Business Analyst", "Entrepreneur"]
+      },
+      {
+        "id": "S1-AKT",
+        "jenjang": "S1",
+        "nama": "S1 Akuntansi",
+        "fakultas": "Sarjana Ekonomi",
+        "logo": "https://placehold.co/150x150/3b82f6/ffffff?text=AKT",
+        "ikon": "DollarSign",
+        "akreditasi": "Baik",
+        "durasi": "8 Semester",
+        "deskripsi": "Sarjana akuntansi kompeten dengan pemahaman mendalam tentang perpajakan dan audit.",
+        "gambar": "https://placehold.co/1920x800/1e40af/FFF?text=S1+AKT",
+        "biaya": 4600000,
+        "kampus": "Pusat",
+        "kurikulum": [
+          { "semester": 1, "mataKuliah": ["Akuntansi Dasar", "Ekonomi Mikro", "Bahasa Indonesia", "Agama"] },
+          { "semester": 2, "mataKuliah": ["Akuntansi Keuangan 1", "Perpajakan 1", "Manajemen Keuangan", "Sistem Informasi"] }
+        ],
+        "prospekKarir": ["Akuntan Publik", "Auditor Internal", "Tax Consultant", "Financial Analyst"]
+      },
+      {
+        "id": "S2-MM",
+        "jenjang": "S2",
+        "nama": "Magister Manajemen",
+        "fakultas": "Pascasarjana",
+        "logo": "https://placehold.co/150x150/a855f7/ffffff?text=MM",
+        "ikon": "Award",
+        "akreditasi": "Baik Sekali",
+        "durasi": "4 Semester",
+        "deskripsi": "Program S2 untuk mencetak pemimpin strategis dan visioner.",
+        "gambar": "https://placehold.co/1920x800/581c87/FFF?text=Magister",
+        "biaya": 7500000,
+        "kampus": "Pusat",
+        "kurikulum": [
+          { "semester": 1, "mataKuliah": ["Manajemen Strategik", "Metodologi Penelitian", "Ekonomi Manajerial"] }
+        ],
+        "prospekKarir": ["C-Level Executive", "Konsultan Bisnis", "Dosen/Akademisi", "Peneliti"]
+      }
+    ],
+    "dosen": [
+      {
+        "id": 1,
+        "nama": "Dr. H. Dadang, M.M",
+        "peran": "Ketua Kampus Digital",
+        "struktur": "Pimpinan",
+        "gambar": "https://placehold.co/200x200/cbd5e1/1e293b?text=Ketua",
+        "mataKuliah": ["Manajemen Strategik", "Kepemimpinan"],
+        "email": "ketua@sekolahkudigital.my.id",
+        "biografi": "Memiliki pengalaman lebih dari 20 tahun dalam memimpin institusi pendidikan tinggi.",
+        "pembimbing_skripsi": true
+      },
+      {
+        "id": 2,
+        "nama": "Siti Rahmawati, S.E., M.Ak.",
+        "peran": "Kaprodi Akuntansi",
+        "struktur": "Prodi",
+        "gambar": "https://placehold.co/200x200/e2e8f0/1e293b?text=Kaprodi",
+        "mataKuliah": ["Akuntansi Biaya", "Audit", "Perpajakan"],
+        "email": "kaprodi.akt@sekolahkudigital.my.id",
+        "biografi": "Ahli dalam bidang akuntansi sektor publik dan audit keuangan.",
+        "pembimbing_skripsi": true
+      }
+    ],
+    "berita": [
+      {
+        "id": 1,
+        "judul": "Wisuda Sarjana Angkatan XIX",
+        "tanggal": "28 Agu 2024",
+        "penulis": "Humas",
+        "kategori": "Akademik",
+        "gambar": "https://placehold.co/1200x600/e0e7ff/4f46e5?text=Foto+Wisuda",
+        "ringkasan": "Sebanyak 300 wisudawan resmi dilantik dalam sidang senat terbuka.",
+        "isiKonten": ["Sidang senat terbuka Kampus Digital melantik 300 wisudawan...", "Ketua berpesan agar alumni menjaga nama baik almamater."],
+        "tags": ["Wisuda", "Alumni", "Event"]
+      },
+      {
+        "id": 2,
+        "judul": "KPPM di Desa Wanayasa",
+        "tanggal": "15 Jul 2024",
+        "penulis": "LPPM",
+        "kategori": "Pengabdian",
+        "gambar": "https://placehold.co/1200x600/fef3c7/d97706?text=Foto+KKN",
+        "ringkasan": "Mahasiswa membantu UMKM desa dalam digitalisasi pemasaran.",
+        "isiKonten": ["Kelompok KKN Mahasiswa melakukan sosialisasi...", "Warga desa sangat antusias."],
+        "tags": ["KPPM", "Pengabdian", "Mahasiswa"]
+      }
+    ],
+    "item_galeri": [
+      { "id": 1, "judul": "Gedung Rektorat", "kategori": "Fasilitas", "deskripsi": "Pusat administrasi kampus.", "lokasi": "Kampus Pusat", "gambar": "https://placehold.co/800x600/1e293b/FFF?text=Gedung" },
+      { "id": 2, "judul": "Wisuda XIX", "kategori": "Kegiatan", "deskripsi": "Prosesi wisuda tahun 2024.", "lokasi": "Ballroom Hotel", "gambar": "https://placehold.co/800x500/be123c/FFF?text=Wisuda" },
+      { "id": 3, "judul": "Lab Komputer", "kategori": "Fasilitas", "deskripsi": "Lab multimedia dan akuntansi.", "lokasi": "Lantai 3", "gambar": "https://placehold.co/800x600/0f172a/FFF?text=Lab+Komp" }
+    ],
+    "produk": [
+      { "id": "k1", "nama": "Jaket Almamater Premium", "harga_normal": 350000, "harga_promo": 250000, "stok": 50, "kategori": "Fashion", "gambar": ["https://placehold.co/500x500/1e293b/FFF?text=Jaket"], "rating": 4.9, "penjual": "Koperasi Pusat", "tokoId": "t1", "official": true },
+      { "id": "k2", "nama": "Buku Pengantar Bisnis", "harga_normal": 85000, "harga_promo": 0, "stok": 100, "kategori": "Buku", "gambar": ["https://placehold.co/500x500/cbd5e1/1e293b?text=Buku"], "rating": 4.8, "penjual": "Koperasi Pusat", "tokoId": "t1", "official": true },
+      { "id": "k3", "nama": "Tumbler Kampus Digital", "harga_normal": 75000, "harga_promo": 50000, "stok": 200, "kategori": "Merchandise", "gambar": ["https://placehold.co/500x500/64748b/FFF?text=Tumbler"], "rating": 4.7, "penjual": "Koperasi Pusat", "tokoId": "t1", "official": true },
+      { "id": "k4", "nama": "Totebag Hima Manajemen", "harga_normal": 45000, "harga_promo": 0, "stok": 30, "kategori": "Fashion", "gambar": ["https://placehold.co/500x500/f59e0b/FFF?text=Totebag"], "rating": 4.5, "penjual": "Hima Manajemen", "tokoId": "t2", "official": false },
+      { "id": "k5", "nama": "Stiker Pack Ekonomi", "harga_normal": 15000, "harga_promo": 10000, "stok": 100, "kategori": "Merchandise", "gambar": ["https://placehold.co/500x500/10b981/FFF?text=Stiker"], "rating": 4.6, "penjual": "Hima Manajemen", "tokoId": "t2", "official": false }
+    ],
+    "transaksi": [
+      {
+        "id": "TRX-001",
+        "userId": "U001",
+        "items": [
+          { "id": "k1", "nama": "Jaket Almamater Premium", "harga": 250000, "qty": 1, "gambar": "https://placehold.co/500x500/1e293b/FFF?text=Jaket" }
+        ],
+        "total": 250000,
+        "status": "SELESAI",
+        "tanggal": "2024-08-20 14:30",
+        "metode": "Transfer BNI"
+      },
+      {
+        "id": "TRX-002",
+        "userId": "U001",
+        "items": [
+          { "id": "k2", "nama": "Buku Pengantar Bisnis", "harga": 85000, "qty": 1, "gambar": "https://placehold.co/500x500/cbd5e1/1e293b?text=Buku" }
+        ],
+        "total": 90000,
+        "status": "DIKEMAS",
+        "tanggal": "2024-08-25 09:15",
+        "metode": "QRIS",
+        "catatan": "Tolong dibungkus rapi"
+      }
+    ],
+    "pendaftar": [
+      {
+        "id": "REG-2024-001",
+        "status": "LULUS",
+        "data_pribadi": {
+          "nama": "Andi Pratama",
+          "nik": "3201012001000001",
+          "ibu_kandung": "Suryani",
+          "tempat_lahir": "Purwakarta",
+          "tanggal_lahir": "2005-05-12",
+          "jenis_kelamin": "L",
+          "email": "andi@test.com",
+          "whatsapp": "081234567890"
+        },
+        "data_akademik": {
+          "jalur": "Reguler",
+          "asal_sekolah": "SMAN 1 Purwakarta",
+          "prodi1": "S1 Manajemen",
+          "prodi2": "S1 Akuntansi",
+          "nilai_ujian": 85
+        },
+        "berkas": {
+          "ktp_link": "https://drive.google.com/file/d/dummy1",
+          "kk_link": "https://drive.google.com/file/d/dummy2",
+          "akta_link": "https://drive.google.com/file/d/dummy3",
+          "foto_link": "https://placehold.co/100x100?text=Foto"
+        }
+      },
+      {
+        "id": "REG-2024-002",
+        "status": "PROSES",
+        "data_pribadi": {
+          "nama": "Siti Aminah",
+          "nik": "3201016002000002",
+          "ibu_kandung": "Dewi Sartika",
+          "tempat_lahir": "Subang",
+          "tanggal_lahir": "2006-01-20",
+          "jenis_kelamin": "P",
+          "email": "siti@test.com",
+          "whatsapp": "085678901234"
+        },
+        "data_akademik": {
+          "jalur": "Beasiswa",
+          "asal_sekolah": "SMK 2 Subang",
+          "prodi1": "S1 Akuntansi",
+          "prodi2": "S1 Manajemen",
+          "nilai_ujian": null
+        },
+        "berkas": {
+          "ktp_link": "https://drive.google.com/file/d/dummy4",
+          "kk_link": "https://drive.google.com/file/d/dummy5",
+          "akta_link": "https://drive.google.com/file/d/dummy6",
+          "foto_link": "https://placehold.co/100x100?text=Foto"
+        }
+      }
+    ],
+    "organisasi": [
+      { "id": 1, "nama": "BEM Kampus Digital", "kategori": "Pemerintahan", "logo": "https://placehold.co/150x150/eab308/ffffff?text=BEM", "gambar": "https://placehold.co/300x400/eab308/FFF?text=Kegiatan", "deskripsi": "Badan Eksekutif Mahasiswa.", "kontak": { "lokasi": "Gedung A", "sosmed": "@bem" } },
+      { "id": 2, "nama": "Mapala KD", "kategori": "Minat Bakat", "logo": "https://placehold.co/150x150/22c55e/ffffff?text=MAPALA", "gambar": "https://placehold.co/300x400/22c55e/FFF?text=Kegiatan", "deskripsi": "Pecinta Alam.", "kontak": { "lokasi": "Basecamp", "sosmed": "@mapala" } }
+    ],
+    "program_karir": [
+      { "judul": "Brevet Pajak A & B", "tipe": "Sertifikasi", "durasi": "3 Bulan", "harga": 1500000, "populer": true, "mitra": "IKPI", "gambar": "https://placehold.co/600x400/1e293b/FFF?text=Brevet", "keuntungan": ["Sertifikat IKPI", "Modul Lengkap"] },
+      { "judul": "Digital Marketing", "tipe": "Bootcamp", "durasi": "1 Bulan", "harga": 500000, "populer": false, "mitra": "Google", "gambar": "https://placehold.co/600x400/2563eb/FFF?text=Digimar", "keuntungan": ["Portfolio", "Mentoring"] }
+    ],
+    "lowongan": [
+      { "posisi": "Staff Admin", "perusahaan": "Indofood", "lokasi": "Purwakarta", "tipe": "Full Time", "gaji": "UMR", "logo": "https://placehold.co/100x100/47fa90/ffffff?text=ICBP" }
+    ],
+    "alumni": [
+      { "nama": "Asep Sunarya", "lulusan": "S1 MGT 2010", "peran": "Kepala Cabang", "perusahaan": "Bank BJB", "kutipan": "Ilmu yang didapat sangat relevan dengan dunia kerja.", "gambar": "https://placehold.co/400x400/cbd5e1/1e293b?text=AS" }
+    ],
+    "prestasi_mahasiswa": [
+      { "judul": "Juara 2 Debat Ekonomi", "kategori": "Akademik", "tim": "Tim Debat KD", "tingkat": "Nasional", "gambar": "https://placehold.co/600x400/1e40af/FFF?text=Juara", "tahun": "2023", "deskripsi": "Meraih medali perak dalam kompetisi debat nasional di UI." },
+      { "judul": "Gold Medal Business Plan", "kategori": "Kewirausahaan", "tim": "Startup Club", "tingkat": "Internasional", "gambar": "https://placehold.co/600x400/ca8a04/FFF?text=Gold", "tahun": "2024", "deskripsi": "Inovasi produk pangan lokal yang mendunia." }
+    ],
+    "pengumuman": [
+      { "tanggal": "2 Sep", "judul": "Awal Perkuliahan Ganjil", "deskripsi": "Perkuliahan semester ganjil dimulai tanggal 2 September 2024." },
+      { "tanggal": "15 Agu", "judul": "Batas Pembayaran UKT", "deskripsi": "Segera lunasi kewajiban administrasi sebelum tanggal 20." }
+    ]
+  }
+}

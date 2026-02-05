@@ -1,0 +1,160 @@
+
+[
+  {
+    "id": "ADM-001",
+    "kategori": "REGISTRASI",
+    "nama_biaya": "Formulir Pendaftaran",
+    "nominal": 300000,
+    "deskripsi": "Biaya administrasi untuk proses seleksi dan akun pendaftaran.",
+    "wajib": true
+  },
+  {
+    "id": "ADM-002",
+    "kategori": "REGISTRASI",
+    "nama_biaya": "Jaket Almamater",
+    "nominal": 250000,
+    "deskripsi": "Jas almamater resmi universitas termasuk ukuran custom.",
+    "wajib": true
+  },
+  {
+    "id": "ADM-003",
+    "kategori": "REGISTRASI",
+    "nama_biaya": "Kartu Tanda Mahasiswa (KTM)",
+    "nominal": 100000,
+    "deskripsi": "Kartu identitas mahasiswa yang berfungsi juga sebagai kartu akses perpustakaan dan ATM.",
+    "wajib": true
+  },
+  {
+    "id": "ADM-004",
+    "kategori": "REGISTRASI",
+    "nama_biaya": "Dana Kemahasiswaan Awal",
+    "nominal": 200000,
+    "deskripsi": "Iuran untuk kegiatan orientasi (PKKMB) dan seragam olahraga.",
+    "wajib": true
+  },
+  {
+    "id": "MGT-DSP",
+    "program_studi_id": "S1-MGT",
+    "kategori": "KULIAH",
+    "nama_biaya": "Uang Gedung (DSP)",
+    "nominal": 3500000,
+    "deskripsi": "Dana Sumbangan Pendidikan (Hanya Semester 1).",
+    "wajib": true
+  },
+  {
+    "id": "MGT-SPP",
+    "program_studi_id": "S1-MGT",
+    "kategori": "KULIAH",
+    "nama_biaya": "SPP Tetap",
+    "nominal": 450000,
+    "deskripsi": "Sumbangan Pembinaan Pendidikan per semester.",
+    "wajib": true
+  },
+  {
+    "id": "MGT-SKS",
+    "program_studi_id": "S1-MGT",
+    "kategori": "KULIAH",
+    "nama_biaya": "Biaya SKS (Estimasi 20 SKS)",
+    "nominal": 1700000,
+    "deskripsi": "Biaya variabel Rp 85.000 x 20 SKS.",
+    "wajib": true
+  },
+  {
+    "id": "MGT-LAB",
+    "program_studi_id": "S1-MGT",
+    "kategori": "KULIAH",
+    "nama_biaya": "Praktikum Bisnis",
+    "nominal": 150000,
+    "deskripsi": "Biaya operasional laboratorium komputer.",
+    "wajib": true
+  },
+  {
+    "id": "AKT-DSP",
+    "program_studi_id": "S1-AKT",
+    "kategori": "KULIAH",
+    "nama_biaya": "Uang Gedung (DSP)",
+    "nominal": 3500000,
+    "deskripsi": "Dana Sumbangan Pendidikan (Hanya Semester 1).",
+    "wajib": true
+  },
+  {
+    "id": "AKT-SPP",
+    "program_studi_id": "S1-AKT",
+    "kategori": "KULIAH",
+    "nama_biaya": "SPP Tetap",
+    "nominal": 450000,
+    "deskripsi": "Sumbangan Pembinaan Pendidikan per semester.",
+    "wajib": true
+  },
+  {
+    "id": "AKT-SKS",
+    "program_studi_id": "S1-AKT",
+    "kategori": "KULIAH",
+    "nama_biaya": "Biaya SKS (Estimasi 20 SKS)",
+    "nominal": 1800000,
+    "deskripsi": "Biaya variabel Rp 90.000 x 20 SKS.",
+    "wajib": true
+  },
+  {
+    "id": "AKT-LAB",
+    "program_studi_id": "S1-AKT",
+    "kategori": "KULIAH",
+    "nama_biaya": "Lab Komputer Akuntansi",
+    "nominal": 350000,
+    "deskripsi": "Praktikum MYOB dan Zahir Accounting.",
+    "wajib": true
+  },
+  {
+    "id": "AKT-SERT",
+    "program_studi_id": "S1-AKT",
+    "kategori": "KULIAH",
+    "nama_biaya": "Sertifikasi Brevet A",
+    "nominal": 500000,
+    "deskripsi": "Ujian sertifikasi perpajakan dasar.",
+    "wajib": true
+  },
+  {
+    "id": "MM-DSP",
+    "program_studi_id": "S2-MM",
+    "kategori": "KULIAH",
+    "nama_biaya": "Dana Pengembangan",
+    "nominal": 5000000,
+    "deskripsi": "Sumbangan pengembangan institusi pascasarjana.",
+    "wajib": true
+  },
+  {
+    "id": "MM-SPP",
+    "program_studi_id": "S2-MM",
+    "kategori": "KULIAH",
+    "nama_biaya": "SPP Pascasarjana",
+    "nominal": 750000,
+    "deskripsi": "Biaya operasional pendidikan per semester.",
+    "wajib": true
+  },
+  {
+    "id": "MM-SKS",
+    "program_studi_id": "S2-MM",
+    "kategori": "KULIAH",
+    "nama_biaya": "Biaya SKS (15 SKS)",
+    "nominal": 3750000,
+    "deskripsi": "Biaya variabel Rp 250.000 x 15 SKS.",
+    "wajib": true
+  },
+  {
+    "id": "MM-RES",
+    "program_studi_id": "S2-MM",
+    "kategori": "KULIAH",
+    "nama_biaya": "Residensi Industri",
+    "nominal": 2000000,
+    "deskripsi": "Kunjungan industri dan studi ekskursi.",
+    "wajib": true
+  },
+  {
+    "id": "LAIN-001",
+    "kategori": "LAINNYA",
+    "nama_biaya": "Biaya Wisuda",
+    "nominal": 2500000,
+    "deskripsi": "Paket wisuda lengkap.",
+    "wajib": true
+  }
+]

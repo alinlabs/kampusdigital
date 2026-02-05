@@ -1,0 +1,107 @@
+
+[
+  { 
+    "id": "KAR-001",
+    "judul": "Brevet Pajak A & B Terpadu", 
+    "tipe": "Sertifikasi Profesi", 
+    "durasi": "12 Minggu (Sabtu & Minggu)", 
+    "harga": 1500000, 
+    "populer": true, 
+    "mitra": "Ikatan Konsultan Pajak Indonesia (IKPI)", 
+    "gambar": "https://placehold.co/600x400/1e293b/FFF?text=Brevet+Pajak", 
+    "level": "Intermediate",
+    "metode": "Hybrid (Online/Offline)",
+    "deskripsi": "Program pelatihan komprehensif perpajakan untuk mempersiapkan peserta menghadapi Ujian Sertifikasi Konsultan Pajak (USKP).",
+    "keuntungan": [
+      "Sertifikat Kompetensi Resmi IKPI", 
+      "Modul & Undang-Undang Pajak Terbaru",
+      "Simulasi e-SPT & e-Faktur",
+      "Koneksi ke Kantor Konsultan Pajak"
+    ],
+    "kurikulum": [
+        "Ketentuan Umum & Tata Cara Perpajakan (KUP)",
+        "PPh Orang Pribadi & Badan",
+        "PPN & PPnBM",
+        "Akuntansi Perpajakan"
+    ],
+    "mentor": "Budi Santoso, S.E., BKP (Praktisi Konsultan Pajak)"
+  },
+  { 
+    "id": "KAR-002",
+    "judul": "Digital Marketing & Growth Hacking", 
+    "tipe": "Bootcamp Intensif", 
+    "durasi": "4 Minggu", 
+    "harga": 500000, 
+    "populer": false, 
+    "mitra": "Google & Meta Authorized Trainer", 
+    "gambar": "https://placehold.co/600x400/2563eb/FFF?text=Digital+Marketing", 
+    "level": "Beginner to Advanced",
+    "metode": "Full Online",
+    "deskripsi": "Kuasai strategi pemasaran digital modern mulai dari SEO, SEM, Social Media Ads, hingga Analytics untuk bisnis.",
+    "keuntungan": [
+      "Portfolio Project Riil", 
+      "Akses Tools Premium (SEMRush, Ahrefs)",
+      "Sertifikat Penyelesaian",
+      "Review CV & LinkedIN"
+    ],
+    "kurikulum": [
+        "Fundamental Digital Marketing",
+        "Content Marketing & Copywriting",
+        "Facebook & Instagram Ads",
+        "Google Analytics 4"
+    ],
+    "mentor": "Sarah Amalia (Ex-CMO Startup Unicorn)"
+  },
+  { 
+    "id": "KAR-003",
+    "judul": "Data Analyst with Python & SQL", 
+    "tipe": "Bootcamp", 
+    "durasi": "8 Minggu", 
+    "harga": 1200000, 
+    "populer": true, 
+    "mitra": "DQLab", 
+    "gambar": "https://placehold.co/600x400/059669/FFF?text=Data+Analyst", 
+    "level": "Beginner",
+    "metode": "Online (Self-paced + Live Mentoring)",
+    "deskripsi": "Pelajari cara mengolah data mentah menjadi insight bisnis yang berharga menggunakan Python, SQL, dan Tableau.",
+    "keuntungan": [
+      "Sertifikat Kompetensi Data", 
+      "Akses Cloud Lab",
+      "Studi Kasus Industri Riil",
+      "Job Connector"
+    ],
+    "kurikulum": [
+        "Basic Python for Data Science",
+        "Database Management with SQL",
+        "Data Visualization with Tableau",
+        "Business Intelligence"
+    ],
+    "mentor": "Hendra Gunawan (Data Scientist Lead)"
+  },
+  { 
+    "id": "KAR-004",
+    "judul": "English for Business & TOEFL Prep", 
+    "tipe": "Kursus Bahasa", 
+    "durasi": "16 Sesi", 
+    "harga": 750000, 
+    "populer": false, 
+    "mitra": "Lembaga Bahasa LIA", 
+    "gambar": "https://placehold.co/600x400/be123c/FFF?text=English+Biz", 
+    "level": "All Levels",
+    "metode": "Offline (Lab Bahasa)",
+    "deskripsi": "Tingkatkan kemampuan bahasa Inggris profesional untuk keperluan bisnis dan persiapan skor TOEFL > 500.",
+    "keuntungan": [
+      "Simulasi Tes TOEFL ITP", 
+      "Modul Official ETS",
+      "Speaking Club",
+      "Sertifikat Prediksi TOEFL"
+    ],
+    "kurikulum": [
+        "Business Correspondence",
+        "Presentation Skills",
+        "TOEFL Structure & Written Expression",
+        "Listening Comprehension"
+    ],
+    "mentor": "Rina Melati, M.Pd. (Dosen Bahasa Inggris)"
+  }
+]

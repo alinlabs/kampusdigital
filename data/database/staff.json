@@ -1,0 +1,49 @@
+
+[
+  {
+    "id": "STF-001",
+    "nip": "198001012010011001",
+    "nama": "Budi Santoso (Admin Keuangan)",
+    "jabatan": "Keuangan",
+    "permissions": [
+      { "view": "ADM_KEUANGAN_PUSAT", "view_access": true, "edit_access": true },
+      { "view": "ADM_TRANSAKSI", "view_access": true, "edit_access": true },
+      { "view": "ADM_KOPERASI", "view_access": true, "edit_access": false },
+      { "view": "ADM_ASET", "view_access": true, "edit_access": true }
+    ]
+  },
+  {
+    "id": "STF-002",
+    "nip": "198502022010012002",
+    "nama": "Sari Indah (BAU - Read Only)",
+    "jabatan": "Administrasi Umum",
+     "permissions": [
+      { "view": "ADM_MHS", "view_access": true, "edit_access": false },
+      { "view": "ADM_DOSEN", "view_access": true, "edit_access": false },
+      { "view": "ADM_ASET", "view_access": true, "edit_access": false }
+    ]
+  },
+  {
+    "id": "STF-003",
+    "nip": "199003032010013003",
+    "nama": "Rian Hidayat (IT Support)",
+    "jabatan": "IT & Sistem",
+    "permissions": [
+       { "view": "ADM_INTEGRASI", "view_access": true, "edit_access": true },
+       { "view": "ADM_CBT", "view_access": true, "edit_access": true },
+       { "view": "ADM_PANEL", "view_access": true, "edit_access": true }
+    ]
+  },
+  {
+    "id": "STF-004",
+    "nip": "199204042010014004",
+    "nama": "Dewi Persik (Front Office)",
+    "jabatan": "Resepsionis",
+     "permissions": [
+       { "view": "ADM_PENDAFTAR", "view_access": true, "edit_access": true },
+       { "view": "ADM_MARKETING", "view_access": true, "edit_access": true },
+       { "view": "ADM_BERITA", "view_access": true, "edit_access": true },
+       { "view": "ADM_PENGUMUMAN", "view_access": true, "edit_access": true }
+    ]
+  }
+]

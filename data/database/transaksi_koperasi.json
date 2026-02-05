@@ -1,0 +1,102 @@
+
+[
+  {
+    "id": "TRX-KOP-20240820-001",
+    "userId": "U001",
+    "nama_pembeli": "Alex Johnson",
+    "items": [
+      { 
+        "produk_id": "k1", 
+        "nama_produk": "Jaket Almamater Premium", 
+        "qty": 1, 
+        "harga_satuan": 250000,
+        "subtotal": 250000,
+        "gambar": "https://placehold.co/500x500/1e293b/FFF?text=Jaket"
+      }
+    ],
+    "rincian_biaya": {
+        "subtotal_produk": 250000,
+        "ongkos_kirim": 0,
+        "biaya_layanan": 1000,
+        "potongan_diskon": 0
+    },
+    "total": 251000,
+    "status": "SELESAI",
+    "tanggal": "2024-08-20T07:30:00Z",
+    "metode": "Transfer BNI",
+    "akun_kas_id": "ACC-BNI-001",
+    "pengiriman": {
+        "tipe": "Ambil di Tempat",
+        "lokasi": "Gedung Koperasi Lt.1"
+    }
+  },
+  {
+    "id": "TRX-KOP-20240825-002",
+    "userId": "U001",
+    "nama_pembeli": "Alex Johnson",
+    "items": [
+      { 
+        "produk_id": "k2", 
+        "nama_produk": "Buku Pengantar Bisnis", 
+        "qty": 1, 
+        "harga_satuan": 85000,
+        "subtotal": 85000,
+        "gambar": "https://placehold.co/500x500/cbd5e1/1e293b?text=Buku"
+      },
+      { 
+        "produk_id": "k7", 
+        "nama_produk": "Notebook Binder A5", 
+        "qty": 2, 
+        "harga_satuan": 30000,
+        "subtotal": 60000,
+        "gambar": "https://placehold.co/500x500/e2e8f0/000?text=Binder"
+      }
+    ],
+    "rincian_biaya": {
+        "subtotal_produk": 145000,
+        "ongkos_kirim": 5000,
+        "biaya_layanan": 1000,
+        "potongan_diskon": 0
+    },
+    "total": 151000,
+    "status": "DIKEMAS",
+    "tanggal": "2024-08-25T02:15:00Z",
+    "metode": "QRIS",
+    "akun_kas_id": "ACC-QRIS-001",
+    "catatan": "Tolong dibungkus rapi, mau diambil sore.",
+    "pengiriman": {
+        "tipe": "Kurir Kampus",
+        "lokasi": "Fakultas Ekonomi R.301"
+    }
+  },
+  {
+    "id": "TRX-KOP-20240826-003",
+    "userId": "U002",
+    "nama_pembeli": "Dr. Sarah Smith",
+    "items": [
+      { 
+        "produk_id": "k3", 
+        "nama_produk": "Tumbler Kampus Exclusive", 
+        "qty": 1, 
+        "harga_satuan": 50000,
+        "subtotal": 50000,
+        "gambar": "https://placehold.co/500x500/64748b/FFF?text=Tumbler"
+      }
+    ],
+    "rincian_biaya": {
+        "subtotal_produk": 50000,
+        "ongkos_kirim": 0,
+        "biaya_layanan": 0,
+        "potongan_diskon": 0
+    },
+    "total": 50000,
+    "status": "MENUNGGU",
+    "tanggal": "2024-08-26T09:45:00Z",
+    "metode": "GoPay",
+    "akun_kas_id": "ACC-GOPAY-001",
+    "pengiriman": {
+        "tipe": "Ambil di Tempat",
+        "lokasi": "Gedung Koperasi Lt.1"
+    }
+  }
+]

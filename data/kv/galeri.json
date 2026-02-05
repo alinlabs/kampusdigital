@@ -1,0 +1,35 @@
+
+[
+  { 
+    "id": 3, 
+    "judul": "Lab Komputer Modern", 
+    "kategori": "Fasilitas", 
+    "deskripsi": "Laboratorium komputer dengan spesifikasi tinggi untuk praktikum.", 
+    "lokasi": "Lantai 3", 
+    "gambar": "https://i.ibb.co.com/1tbhgwmQ/alin-lab-gen-1770095586693.webp" 
+  },
+  { 
+    "id": 4, 
+    "judul": "Perpustakaan Digital", 
+    "kategori": "Fasilitas", 
+    "deskripsi": "Akses ribuan e-book dan jurnal internasional.", 
+    "lokasi": "Gedung B", 
+    "gambar": "https://i.ibb.co.com/5W66jRLB/alin-lab-gen-1770095448060.webp" 
+  },
+  { 
+    "id": 5, 
+    "judul": "Masjid Kampus", 
+    "kategori": "Fasilitas", 
+    "deskripsi": "Sarana ibadah yang nyaman dan luas untuk civitas akademika.", 
+    "lokasi": "Area Selatan", 
+    "gambar": "https://i.ibb.co.com/Qjzg9Xnh/alin-lab-gen-1770095690883.webp" 
+  },
+  { 
+    "id": 8, 
+    "judul": "Kantin Sehat", 
+    "kategori": "Fasilitas", 
+    "deskripsi": "Area kuliner bersih dengan harga terjangkau.", 
+    "lokasi": "Area Belakang", 
+    "gambar": "https://i.ibb.co.com/CsX3wTp0/alin-lab-gen-1770095873947.webp" 
+  }
+]

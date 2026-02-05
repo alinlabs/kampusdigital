@@ -1,0 +1,57 @@
+
+[
+  { 
+    "judul": "Juara 2 Debat Ekonomi Nasional", 
+    "kategori": "Akademik", 
+    "tim": "Tim Debat Kampus Digital", 
+    "tingkat": "Nasional", 
+    "gambar": "https://placehold.co/600x400/1e40af/FFF?text=Debat+Ekonomi", 
+    "tahun": "2023", 
+    "deskripsi": "Meraih medali perak dalam kompetisi debat nasional di Universitas Indonesia." 
+  },
+  { 
+    "judul": "Gold Medal Business Plan Competition", 
+    "kategori": "Kewirausahaan", 
+    "tim": "Startup Club", 
+    "tingkat": "Internasional", 
+    "gambar": "https://placehold.co/600x400/ca8a04/FFF?text=Gold+Medal", 
+    "tahun": "2024", 
+    "deskripsi": "Inovasi produk pangan lokal yang mendunia pada ajang di Malaysia." 
+  },
+  { 
+    "judul": "Juara 1 Futsal Liga Mahasiswa", 
+    "kategori": "Non-Akademik", 
+    "tim": "Kampus Digital FC", 
+    "tingkat": "Provinsi", 
+    "gambar": "https://placehold.co/600x400/047857/FFF?text=Juara+Futsal", 
+    "tahun": "2024", 
+    "deskripsi": "Mempertahankan gelar juara bertahan tingkat Jawa Barat." 
+  },
+  { 
+    "judul": "Best Paper Award Seminar Akuntansi", 
+    "kategori": "Akademik", 
+    "tim": "Siti Nurhaliza", 
+    "tingkat": "Nasional", 
+    "gambar": "https://placehold.co/600x400/be123c/FFF?text=Best+Paper", 
+    "tahun": "2023", 
+    "deskripsi": "Penelitian tentang audit forensik pada UMKM." 
+  },
+  { 
+    "judul": "Juara Harapan 1 Tari Tradisional", 
+    "kategori": "Seni Budaya", 
+    "tim": "UKM Tari", 
+    "tingkat": "Regional", 
+    "gambar": "https://placehold.co/600x400/d97706/FFF?text=Tari+Daerah", 
+    "tahun": "2024", 
+    "deskripsi": "Festival Seni Budaya Purwakarta Istimewa." 
+  },
+  { 
+    "judul": "Finalis Duta Kampus Jabar", 
+    "kategori": "Non-Akademik", 
+    "tim": "Raka & Dinda", 
+    "tingkat": "Provinsi", 
+    "gambar": "https://placehold.co/600x400/7c3aed/FFF?text=Duta+Kampus", 
+    "tahun": "2023", 
+    "deskripsi": "Mewakili Kampus Digital dalam ajang pemilihan duta pendidikan." 
+  }
+]

@@ -1,0 +1,55 @@
+
+[
+  { 
+    "id": "GRP-DSN-001", 
+    "dosen_id": 1, 
+    "mahasiswa_ids": ["MHS-001", "MHS-002"],
+    "catatan_grup": "Bimbingan Rutin setiap Senin jam 10.00 di Ruang Dosen.",
+    "riwayat_bimbingan": [
+        { 
+            "id": 1, 
+            "mahasiswa_id": "MHS-001",
+            "tanggal": "10/08/2024", 
+            "topik": "Pengajuan Judul", 
+            "catatan": "Saya mengajukan 3 judul alternatif, mohon arahannya Pak.",
+            "link_dokumen": "https://drive.google.com/file/d/dummy1",
+            "komentar": "Judul ke-2 diterima, lanjut buat Proposal (Bab 1-3).", 
+            "status": "Disetujui", 
+            "tahapan": "Judul" 
+        },
+        { 
+            "id": 2, 
+            "mahasiswa_id": "MHS-001",
+            "tanggal": "25/08/2024", 
+            "topik": "Revisi Bab 1", 
+            "catatan": "Berikut revisi latar belakang masalah sesuai catatan minggu lalu.",
+            "link_dokumen": "https://drive.google.com/file/d/dummy2",
+            "komentar": "Perbaiki data pendukung di paragraf 3, masih kurang kuat.", 
+            "status": "Revisi", 
+            "tahapan": "BAB 1" 
+        },
+        { 
+            "id": 3, 
+            "mahasiswa_id": "MHS-002",
+            "tanggal": "01/09/2024", 
+            "topik": "Pengajuan Judul", 
+            "catatan": "Judul tentang UMKM Pak.",
+            "link_dokumen": "https://drive.google.com/file/d/dummy5",
+            "komentar": "Judul menarik, namun persempit objek penelitian.", 
+            "status": "Revisi", 
+            "tahapan": "Judul" 
+        },
+        { 
+            "id": 4, 
+            "mahasiswa_id": "MHS-001",
+            "tanggal": "05/09/2024", 
+            "topik": "ACC Bab 1", 
+            "catatan": "Sudah diperbaiki datanya Pak.",
+            "link_dokumen": "https://drive.google.com/file/d/dummy3",
+            "komentar": "Bab 1 sudah oke. Lanjut ke Kajian Pustaka (Bab 2).", 
+            "status": "Disetujui", 
+            "tahapan": "BAB 1" 
+        }
+    ]
+  }
+]

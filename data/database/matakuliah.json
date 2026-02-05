@@ -1,0 +1,124 @@
+
+[
+  {
+    "id": "MK-001",
+    "kode": "MGT-101",
+    "nama": "Pengantar Bisnis",
+    "sks": 3,
+    "semester_default": 1,
+    "sifat": "Wajib",
+    "prodi": "Manajemen",
+    "prasyarat": null,
+    "deskripsi": "Memahami konsep dasar bisnis, lingkungan bisnis, etika, dan fungsi-fungsi manajemen dalam organisasi bisnis."
+  },
+  {
+    "id": "MK-002",
+    "kode": "MGT-102",
+    "nama": "Pengantar Manajemen",
+    "sks": 3,
+    "semester_default": 1,
+    "sifat": "Wajib",
+    "prodi": "Manajemen",
+    "prasyarat": null,
+    "deskripsi": "Konsep dasar POAC (Planning, Organizing, Actuating, Controlling) dalam organisasi."
+  },
+  {
+    "id": "MK-003",
+    "kode": "EKO-101",
+    "nama": "Matematika Ekonomi",
+    "sks": 3,
+    "semester_default": 1,
+    "sifat": "Wajib",
+    "prodi": "Manajemen",
+    "prasyarat": null,
+    "deskripsi": "Penerapan fungsi matematika (linear, non-linear, diferensial) dalam kasus ekonomi."
+  },
+  {
+    "id": "MK-004",
+    "kode": "UMU-101",
+    "nama": "Bahasa Inggris Bisnis 1",
+    "sks": 2,
+    "semester_default": 1,
+    "sifat": "Wajib",
+    "prodi": "Semua",
+    "prasyarat": null,
+    "deskripsi": "Basic grammar and vocabulary for business communication."
+  },
+  {
+    "id": "MK-005",
+    "kode": "AKT-101",
+    "nama": "Pengantar Akuntansi 1",
+    "sks": 3,
+    "semester_default": 1,
+    "sifat": "Wajib",
+    "prodi": "Akuntansi",
+    "prasyarat": null,
+    "deskripsi": "Siklus akuntansi perusahaan jasa dan dagang."
+  },
+  {
+    "id": "MK-006",
+    "kode": "MGT-201",
+    "nama": "Manajemen Pemasaran",
+    "sks": 3,
+    "semester_default": 2,
+    "sifat": "Wajib",
+    "prodi": "Manajemen",
+    "prasyarat": ["MK-001"],
+    "deskripsi": "Analisis pasar, bauran pemasaran (4P), dan perilaku konsumen."
+  },
+  {
+    "id": "MK-007",
+    "kode": "MGT-202",
+    "nama": "Manajemen Keuangan",
+    "sks": 3,
+    "semester_default": 3,
+    "sifat": "Wajib",
+    "prodi": "Manajemen",
+    "prasyarat": ["MK-001", "MK-003"],
+    "deskripsi": "Analisis laporan keuangan, time value of money, dan penganggaran modal."
+  },
+  {
+    "id": "MK-008",
+    "kode": "MGT-301",
+    "nama": "Manajemen Strategik",
+    "sks": 3,
+    "semester_default": 5,
+    "sifat": "Wajib",
+    "prodi": "Manajemen",
+    "prasyarat": ["MK-006", "MK-007"],
+    "deskripsi": "Formulasi, implementasi, dan evaluasi strategi untuk keunggulan kompetitif perusahaan."
+  },
+  {
+    "id": "MK-009",
+    "kode": "MGT-305",
+    "nama": "Bisnis Digital",
+    "sks": 3,
+    "semester_default": 5,
+    "sifat": "Pilihan",
+    "prodi": "Manajemen",
+    "prasyarat": ["MK-006"],
+    "deskripsi": "Model bisnis e-commerce, digital marketing, dan transformasi digital."
+  },
+  {
+    "id": "MK-010",
+    "kode": "AKT-202",
+    "nama": "Akuntansi Biaya",
+    "sks": 3,
+    "semester_default": 3,
+    "sifat": "Wajib",
+    "prodi": "Akuntansi",
+    "prasyarat": ["MK-005"],
+    "deskripsi": "Perhitungan harga pokok produksi dan analisis biaya untuk pengambilan keputusan."
+  },
+  {
+    "id": "MK-011",
+    "kode": "MGT-405",
+    "nama": "Metodologi Penelitian",
+    "sks": 3,
+    "semester_default": 6,
+    "sifat": "Wajib",
+    "prodi": "Semua",
+    "prasyarat": ["MK-006", "MK-007"],
+    "deskripsi": "Teknik penyusunan proposal penelitian, metode kualitatif dan kuantitatif."
+  }
+]

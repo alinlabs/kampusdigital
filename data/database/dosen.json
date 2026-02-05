@@ -1,0 +1,194 @@
+
+[
+  {
+    "id": 1,
+    "nama": "Dr. H. Dadang, S.E., M.M.",
+    "nidn": "0412057501",
+    "peran": "Ketua STIE",
+    "jabatan_fungsional": "Lektor Kepala",
+    "pendidikan_terakhir": "S3 Manajemen Strategik - UNPAD",
+    "struktur": "Pimpinan",
+    "gambar": "https://placehold.co/200x200/1e293b/ffffff?text=Dr+Dadang",
+    "mataKuliah": ["Manajemen Strategik", "Kepemimpinan", "Teori Pengambilan Keputusan"],
+    "keahlian": ["Strategic Management", "Leadership", "Organizational Behavior"],
+    "email": "dadang@sekolahkudigital.my.id",
+    "telepon": "081234567890",
+    "biografi": "Akademisi dengan pengalaman lebih dari 20 tahun. Fokus penelitian pada strategi keunggulan bersaing UMKM di era digital.",
+    "pembimbing_skripsi": true,
+    "data_pribadi": {
+        "nik": "3201011205750001",
+        "tempat_lahir": "Bandung",
+        "tanggal_lahir": "1975-05-12",
+        "jenis_kelamin": "L",
+        "agama": "Islam",
+        "alamat_rumah": "Jl. Gading Kencana No. 45, Kota Bandung"
+    },
+    "kepegawaian": {
+        "status": "Dosen Tetap",
+        "tmt_kerja": "2005-09-01",
+        "homebase_prodi": "S1 Manajemen",
+        "golongan": "IV/a"
+    },
+    "keuangan": {
+        "nama_bank": "Bank BJB",
+        "nomor_rekening": "0012345678900",
+        "atas_nama": "Dadang Suherman",
+        "npwp": "89.123.456.7-428.000",
+        "gaji_pokok": 15000000,
+        "tunjangan": 5000000
+    }
+  },
+  {
+    "id": 2,
+    "nama": "Siti Rahmawati, S.E., M.Ak., Ak., CA.",
+    "nidn": "0420108802",
+    "peran": "Kaprodi Akuntansi",
+    "jabatan_fungsional": "Lektor",
+    "pendidikan_terakhir": "S2 Akuntansi - UI",
+    "struktur": "Prodi",
+    "gambar": "https://placehold.co/200x200/334155/ffffff?text=Bu+Siti",
+    "mataKuliah": ["Akuntansi Biaya", "Auditing 1", "Perpajakan", "Sistem Informasi Akuntansi"],
+    "keahlian": ["Public Sector Accounting", "Auditing", "Taxation"],
+    "email": "siti.rahmawati@sekolahkudigital.my.id",
+    "telepon": "081298765432",
+    "biografi": "Praktisi akuntan publik yang beralih menjadi akademisi. Aktif sebagai konsultan pajak bersertifikat.",
+    "pembimbing_skripsi": true,
+    "data_pribadi": {
+        "nik": "3201016010880002",
+        "tempat_lahir": "Jakarta",
+        "tanggal_lahir": "1988-10-20",
+        "jenis_kelamin": "P",
+        "agama": "Islam",
+        "alamat_rumah": "Perum Grand Taruma Blok B2, Karawang"
+    },
+    "kepegawaian": {
+        "status": "Dosen Tetap",
+        "tmt_kerja": "2015-02-01",
+        "homebase_prodi": "S1 Akuntansi",
+        "golongan": "III/c"
+    },
+    "keuangan": {
+        "nama_bank": "Bank BCA",
+        "nomor_rekening": "8880999111",
+        "atas_nama": "Siti Rahmawati",
+        "npwp": "76.543.210.9-408.000",
+        "gaji_pokok": 8500000,
+        "tunjangan": 2000000
+    }
+  },
+  {
+    "id": 3,
+    "nama": "Budi Santoso, S.T., M.M.",
+    "nidn": "0415068201",
+    "peran": "Kaprodi Manajemen",
+    "jabatan_fungsional": "Lektor",
+    "pendidikan_terakhir": "S2 Manajemen - ITB",
+    "struktur": "Prodi",
+    "gambar": "https://placehold.co/200x200/475569/ffffff?text=Pak+Budi",
+    "mataKuliah": ["Manajemen Operasional", "Bisnis Digital", "Technopreneurship"],
+    "keahlian": ["Operations Management", "Digital Business", "Supply Chain"],
+    "email": "budi.santoso@sekolahkudigital.my.id",
+    "telepon": "081345678901",
+    "biografi": "Memiliki latar belakang teknik industri dan manajemen. Fokus pada efisiensi operasional dan startup digital.",
+    "pembimbing_skripsi": true,
+    "data_pribadi": {
+        "nik": "3201011506820003",
+        "tempat_lahir": "Subang",
+        "tanggal_lahir": "1982-06-15",
+        "jenis_kelamin": "L",
+        "agama": "Kristen",
+        "alamat_rumah": "Jl. Veteran No. 99, Purwakarta"
+    },
+    "kepegawaian": {
+        "status": "Dosen Tetap",
+        "tmt_kerja": "2012-08-01",
+        "homebase_prodi": "S1 Manajemen",
+        "golongan": "III/d"
+    },
+    "keuangan": {
+        "nama_bank": "Bank Mandiri",
+        "nomor_rekening": "1320004445556",
+        "atas_nama": "Budi Santoso",
+        "npwp": "45.678.901.2-409.000",
+        "gaji_pokok": 9000000,
+        "tunjangan": 2500000
+    }
+  },
+  {
+    "id": 4,
+    "nama": "Prof. Dr. Irwan Setiawan, S.E., M.Si.",
+    "nidn": "0010016501",
+    "peran": "Guru Besar",
+    "jabatan_fungsional": "Profesor",
+    "pendidikan_terakhir": "S3 Ekonomi - UGM",
+    "struktur": "Dosen",
+    "gambar": "https://placehold.co/200x200/64748b/ffffff?text=Prof+Irwan",
+    "mataKuliah": ["Metodologi Penelitian", "Ekonomi Makro", "Ekonometrika"],
+    "keahlian": ["Macroeconomics", "Development Economics"],
+    "email": "irwan.setiawan@sekolahkudigital.my.id",
+    "telepon": "08111222333",
+    "biografi": "Peneliti senior dengan h-index Scopus 15. Sering menjadi narasumber kebijakan ekonomi daerah.",
+    "pembimbing_skripsi": true,
+    "data_pribadi": {
+        "nik": "3201011001650004",
+        "tempat_lahir": "Bandung",
+        "tanggal_lahir": "1965-01-10",
+        "jenis_kelamin": "L",
+        "agama": "Islam",
+        "alamat_rumah": "Komp. Dosen Cipaganti, Bandung"
+    },
+    "kepegawaian": {
+        "status": "Dosen Tetap (Guru Besar)",
+        "tmt_kerja": "1995-03-01",
+        "homebase_prodi": "S2 Magister Manajemen",
+        "golongan": "IV/d"
+    },
+    "keuangan": {
+        "nama_bank": "Bank BNI",
+        "nomor_rekening": "0099887766",
+        "atas_nama": "Irwan Setiawan",
+        "npwp": "23.456.789.0-421.000",
+        "gaji_pokok": 20000000,
+        "tunjangan": 15000000
+    }
+  },
+  {
+    "id": 5,
+    "nama": "Rina Melati, S.Pd., M.Pd.",
+    "nidn": "0405059003",
+    "peran": "Dosen LB",
+    "jabatan_fungsional": "Asisten Ahli",
+    "pendidikan_terakhir": "S2 Pendidikan Bahasa Inggris - UPI",
+    "struktur": "Dosen LB",
+    "gambar": "https://placehold.co/200x200/94a3b8/ffffff?text=Ms+Rina",
+    "mataKuliah": ["Bahasa Inggris Bisnis", "Komunikasi Efektif", "Public Speaking"],
+    "keahlian": ["English for Specific Purposes", "Communication"],
+    "email": "rina.melati@sekolahkudigital.my.id",
+    "telepon": "085678901234",
+    "biografi": "Trainer komunikasi profesional. Aktif membimbing mahasiswa dalam kompetisi debat bahasa Inggris.",
+    "pembimbing_skripsi": false,
+    "data_pribadi": {
+        "nik": "3201014505900005",
+        "tempat_lahir": "Cimahi",
+        "tanggal_lahir": "1990-05-05",
+        "jenis_kelamin": "P",
+        "agama": "Islam",
+        "alamat_rumah": "Jl. Kolonel Masturi, Cimahi"
+    },
+    "kepegawaian": {
+        "status": "Dosen Luar Biasa",
+        "tmt_kerja": "2020-09-01",
+        "homebase_prodi": "MKU (Matakuliah Umum)",
+        "golongan": "-"
+    },
+    "keuangan": {
+        "nama_bank": "Bank BCA",
+        "nomor_rekening": "5550222333",
+        "atas_nama": "Rina Melati",
+        "npwp": "98.765.432.1-423.000",
+        "gaji_pokok": 0,
+        "tunjangan": 0,
+        "catatan": "Dibayar per SKS kehadiran"
+    }
+  }
+]

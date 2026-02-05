@@ -1,0 +1,115 @@
+
+[
+  {
+    "id": "beranda",
+    "hero": {
+      "judul": "Membangun Generasi Unggul Ekonomi Masa Depan",
+      "badge": "Penerimaan Mahasiswa Baru",
+      "deskripsi": "Bergabunglah dengan Kampus Digital, tempat lahirnya para pemimpin bisnis masa depan.",
+      "backgroundLatar": "https://cdn.pixabay.com/video/2016/02/29/2340-157269921_tiny.mp4"
+    }
+  },
+  {
+    "id": "ejournal",
+    "hero": {
+      "judul": "E-Journal & Publikasi",
+      "badge": "Open Access",
+      "deskripsi": "Repositori karya ilmiah dosen dan mahasiswa Kampus Digital.",
+      "backgroundLatar": "https://cdn.pixabay.com/video/2016/09/21/5393-183629118_tiny.mp4"
+    }
+  },
+  {
+    "id": "tentang",
+    "hero": {
+      "judul": "Tentang Kampus Digital",
+      "deskripsi": "Institusi pendidikan tinggi berbasis teknologi sejak 2001.",
+      "badge": "Profil Kampus",
+      "backgroundLatar": "https://cdn.pixabay.com/video/2016/05/12/3172-166338958_tiny.mp4"
+    }
+  },
+  {
+    "id": "pendaftaran",
+    "hero": {
+      "judul": "Penerimaan Mahasiswa Baru",
+      "badge": "PMB Online",
+      "deskripsi": "Wujudkan masa depan gemilang bersama Kampus Digital.",
+      "backgroundLatar": "https://cdn.pixabay.com/video/2016/02/29/2340-157269921_tiny.mp4"
+    }
+  },
+  {
+    "id": "akademik",
+    "hero": { 
+      "judul": "Program Studi",
+      "badge": "Akademik",
+      "deskripsi": "Temukan Program Studi Sarjana dan Pascasarjana sesuai minatmu.",
+      "backgroundLatar": "https://cdn.pixabay.com/video/2023/10/15/185096-874643413_tiny.mp4" 
+    }
+  },
+  {
+    "id": "karir",
+    "hero": { 
+      "judul": "Pengembangan Karir",
+      "badge": "Karir Center",
+      "deskripsi": "Persiapkan masa depan profesional Anda dengan pelatihan dan koneksi industri terbaik.",
+      "backgroundLatar": "https://placehold.co/1920x800/1e293b/ffffff?text=Karir" 
+    }
+  },
+  {
+    "id": "lowongan",
+    "hero": { 
+      "judul": "Bursa Kerja & Magang",
+      "badge": "Job Vacancy",
+      "deskripsi": "Temukan peluang karir impian Anda di perusahaan mitra strategis kami.",
+      "backgroundLatar": "https://cdn.pixabay.com/video/2020/05/25/40123-424353685_tiny.mp4" 
+    }
+  },
+  {
+    "id": "organisasi",
+    "hero": { 
+      "judul": "Organisasi Mahasiswa", 
+      "badge": "Kemahasiswaan", 
+      "deskripsi": "Salurkan minat dan bakat melalui Unit Kegiatan Mahasiswa Kampus Digital.",
+      "backgroundLatar": "https://placehold.co/1920x800/1e293b/ffffff?text=Ormawa" 
+    }
+  },
+  {
+    "id": "berita",
+    "hero": { 
+      "judul": "Berita & Kegiatan", 
+      "badge": "Update", 
+      "deskripsi": "Update terbaru seputar kegiatan kampus dan prestasi akademik.",
+      "backgroundLatar": "https://cdn.pixabay.com/video/2021/12/06/99856-658707374_tiny.mp4" 
+    }
+  },
+  {
+    "id": "galeri",
+    "hero": { 
+      "judul": "Galeri Kampus", 
+      "badge": "Visual", 
+      "deskripsi": "Dokumentasi visual fasilitas dan kegiatan Kampus Digital.",
+      "backgroundLatar": "https://cdn.pixabay.com/video/2018/12/17/20072-307163785_tiny.mp4" 
+    }
+  },
+  {
+    "id": "prestasi",
+    "hero_alumni": { 
+      "judul": "Kiprah Alumni", 
+      "deskripsi": "Jejak sukses para lulusan di kancah nasional.", 
+      "backgroundLatar": "https://cdn.pixabay.com/video/2023/05/06/161887-824623422_tiny.mp4" 
+    },
+    "hero_mahasiswa": { 
+      "judul": "Mahasiswa Berprestasi", 
+      "deskripsi": "Bukti kualitas pendidikan Kampus Digital.", 
+      "backgroundLatar": "https://cdn.pixabay.com/video/2023/05/06/161887-824623422_tiny.mp4" 
+    }
+  },
+  {
+    "id": "koperasi",
+    "hero": { 
+      "judul": "Kampus Store", 
+      "badge": "Store",
+      "deskripsi": "Official Merchandise Store dan Forum Jual Beli Mahasiswa.",
+      "backgroundLatar": "https://cdn.pixabay.com/video/2024/03/15/204292-923909617_tiny.mp4" 
+    }
+  }
+]

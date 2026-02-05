@@ -1,0 +1,17 @@
+
+{
+  "jadwal_ami": [
+    { "id": "AMI-01", "prodi": "S1 Manajemen", "auditor": "Dr. Budi (Ketua), Siti M.Ak", "tanggal": "10-12 Oktober 2024", "status": "Terjadwal" },
+    { "id": "AMI-02", "prodi": "S1 Akuntansi", "auditor": "Prof. Irwan (Ketua)", "tanggal": "15-17 Oktober 2024", "status": "Menunggu Konfirmasi" }
+  ],
+  "dokumen_mutu": [
+    { "kode": "MAN-01", "nama": "Manual Mutu Universitas", "revisi": "Rev-02", "tanggal": "2023-01-10", "status": "Berlaku" },
+    { "kode": "SOP-P-05", "nama": "SOP Perkuliahan Daring", "revisi": "Rev-01", "tanggal": "2023-05-20", "status": "Berlaku" },
+    { "kode": "SOP-K-02", "nama": "SOP Pencairan Dana Kegiatan", "revisi": "Rev-00", "tanggal": "2022-11-15", "status": "Perlu Revisi" }
+  ],
+  "temuan_audit": [
+    { "area": "Standar Pendidikan", "type": "KTS", "desc": "RPS untuk 3 mata kuliah belum divalidasi oleh Gugus Mutu.", "status": "Open", "deadline": "2024-11-01" },
+    { "area": "Standar Sarpras", "type": "OB", "desc": "Sinyal Wi-Fi di Gedung C lantai 2 kurang stabil saat jam sibuk.", "status": "Closed", "deadline": "2024-09-01" },
+    { "area": "Standar Penelitian", "type": "KTS", "desc": "Publikasi dosen di jurnal internasional bereputasi belum mencapai target.", "status": "Open", "deadline": "2024-12-31" }
+  ]
+}

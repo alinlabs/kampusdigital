@@ -1,0 +1,306 @@
+
+-- SCHEMA MIGRASI CLOUDFLARE D1 (SQLite) - SINGLE DATABASE INTEGRATED
+-- Semua modul (Akademik, Bisnis, PMB, Konten) berada dalam SATU database agar bisa saling berelasi (JOIN).
+
+-- Enable Foreign Keys support
+PRAGMA foreign_keys = ON;
+
+-- --------------------------------------------------------
+-- 1. CONFIG STORE
+-- --------------------------------------------------------
+CREATE TABLE IF NOT EXISTS app_config (
+    key TEXT PRIMARY KEY,
+    value TEXT
+);
+
+-- --------------------------------------------------------
+-- 2. DATA MASTER AKADEMIK
+-- --------------------------------------------------------
+
+-- Program Studi
+CREATE TABLE IF NOT EXISTS study_programs (
+    id TEXT PRIMARY KEY,
+    jenjang TEXT,
+    nama TEXT,
+    fakultas TEXT,
+    akreditasi TEXT,
+    durasi TEXT,
+    biaya INTEGER,
+    data_json TEXT
+);
+
+-- Dosen
+CREATE TABLE IF NOT EXISTS lecturers (
+    id INTEGER PRIMARY KEY,
+    nama TEXT,
+    peran TEXT,
+    struktur TEXT,
+    email TEXT,
+    telepon TEXT,
+    data_json TEXT
+);
+
+-- Mahasiswa
+CREATE TABLE IF NOT EXISTS students (
+    id TEXT PRIMARY KEY, -- MHS-xxx
+    nim TEXT UNIQUE,
+    nama TEXT,
+    username TEXT,
+    status TEXT,
+    prodi_id TEXT,
+    angkatan INTEGER,
+    data_json TEXT,
+    -- Relasi ke Program Studi (Akademik)
+    FOREIGN KEY (prodi_id) REFERENCES study_programs(id) ON DELETE SET NULL
+);
+
+-- Mata Kuliah
+CREATE TABLE IF NOT EXISTS courses (
+    id TEXT PRIMARY KEY,
+    kode TEXT,
+    nama TEXT,
+    sks INTEGER,
+    semester_default INTEGER,
+    prodi TEXT,
+    deskripsi TEXT
+);
+
+-- Kelas Perkuliahan
+CREATE TABLE IF NOT EXISTS classes (
+    id TEXT PRIMARY KEY,
+    nama TEXT,
+    angkatan INTEGER,
+    ruangan_default TEXT,
+    kuota INTEGER,
+    mahasiswa_ids TEXT
+);
+
+-- Jadwal Kuliah
+CREATE TABLE IF NOT EXISTS schedules (
+    id TEXT PRIMARY KEY,
+    matakuliah_id TEXT,
+    dosen_id INTEGER,
+    kelas_id TEXT,
+    hari TEXT,
+    jam_mulai TEXT,
+    jam_selesai TEXT,
+    -- Relasi antar tabel Akademik
+    FOREIGN KEY (matakuliah_id) REFERENCES courses(id) ON DELETE CASCADE,
+    FOREIGN KEY (dosen_id) REFERENCES lecturers(id) ON DELETE SET NULL,
+    FOREIGN KEY (kelas_id) REFERENCES classes(id) ON DELETE CASCADE
+);
+
+-- KRS (Kartu Rencana Studi)
+CREATE TABLE IF NOT EXISTS krs (
+    id TEXT PRIMARY KEY,
+    mahasiswa_id TEXT,
+    jadwal_id TEXT,
+    semester INTEGER,
+    status TEXT,
+    created_at DATETIME DEFAULT CURRENT_TIMESTAMP,
+    -- Relasi Mahasiswa mengambil Jadwal
+    FOREIGN KEY (mahasiswa_id) REFERENCES students(id) ON DELETE CASCADE,
+    FOREIGN KEY (jadwal_id) REFERENCES schedules(id) ON DELETE CASCADE
+);
+
+-- Nilai Akademik
+CREATE TABLE IF NOT EXISTS grades (
+    id TEXT PRIMARY KEY,
+    mahasiswa_id TEXT,
+    matakuliah_id TEXT,
+    dosen_id INTEGER,
+    nilai_angka REAL,
+    nilai_huruf TEXT,
+    semester INTEGER,
+    status TEXT,
+    -- Relasi Nilai ke Mahasiswa, Matkul, dan Dosen
+    FOREIGN KEY (mahasiswa_id) REFERENCES students(id) ON DELETE CASCADE,
+    FOREIGN KEY (matakuliah_id) REFERENCES courses(id),
+    FOREIGN KEY (dosen_id) REFERENCES lecturers(id)
+);
+
+-- Absensi
+CREATE TABLE IF NOT EXISTS attendance_sessions (
+    id TEXT PRIMARY KEY,
+    kode_sesi TEXT,
+    jadwal_id TEXT,
+    kelas_id TEXT,
+    matakuliah_id TEXT,
+    dosen_id INTEGER,
+    tanggal TEXT,
+    pertemuan_ke INTEGER,
+    topik TEXT,
+    kehadiran_json TEXT,
+    FOREIGN KEY (jadwal_id) REFERENCES schedules(id)
+);
+
+-- --------------------------------------------------------
+-- 3. BISNIS & KEUANGAN (Terhubung ke User/Mahasiswa)
+-- --------------------------------------------------------
+
+-- Produk Koperasi
+CREATE TABLE IF NOT EXISTS products (
+    id TEXT PRIMARY KEY,
+    nama TEXT,
+    harga_normal INTEGER,
+    harga_promo INTEGER,
+    stok INTEGER,
+    kategori TEXT,
+    penjual TEXT,
+    rating REAL,
+    official BOOLEAN DEFAULT 0,
+    gambar_json TEXT
+);
+
+-- Transaksi Koperasi
+CREATE TABLE IF NOT EXISTS transactions (
+    id TEXT PRIMARY KEY,
+    user_id TEXT, -- Bisa ID Mahasiswa atau Dosen
+    total INTEGER,
+    status TEXT,
+    tanggal DATETIME DEFAULT CURRENT_TIMESTAMP,
+    metode_bayar TEXT,
+    items_json TEXT
+    -- Tidak di-hard link FK ke students karena user_id bisa dosen/admin
+);
+
+-- Tagihan Mahasiswa (UKT/SPI)
+CREATE TABLE IF NOT EXISTS bills (
+    id TEXT PRIMARY KEY,
+    mahasiswa_id TEXT,
+    deskripsi TEXT,
+    nominal INTEGER,
+    terbayar INTEGER,
+    status TEXT,
+    jatuh_tempo DATE,
+    -- Relasi Tagihan (Bisnis) -> Mahasiswa (Akademik)
+    -- Ini alasan kenapa database tidak boleh dipisah!
+    FOREIGN KEY (mahasiswa_id) REFERENCES students(id) ON DELETE CASCADE
+);
+
+-- --------------------------------------------------------
+-- 4. PENERIMAAN MAHASISWA BARU (PMB)
+-- --------------------------------------------------------
+
+CREATE TABLE IF NOT EXISTS applicants (
+    id TEXT PRIMARY KEY, -- REG-xxxx
+    nama TEXT,
+    email TEXT,
+    nik TEXT,
+    status TEXT,
+    prodi_pilihan_1 TEXT,
+    prodi_pilihan_2 TEXT,
+    data_json TEXT,
+    -- Relasi Pilihan Prodi (PMB) -> Prodi (Akademik)
+    FOREIGN KEY (prodi_pilihan_1) REFERENCES study_programs(id),
+    FOREIGN KEY (prodi_pilihan_2) REFERENCES study_programs(id)
+);
+
+-- --------------------------------------------------------
+-- 5. PUBLIKASI & KONTEN (Independen)
+-- --------------------------------------------------------
+
+CREATE TABLE IF NOT EXISTS news (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    judul TEXT,
+    tanggal TEXT,
+    penulis TEXT,
+    kategori TEXT,
+    ringkasan TEXT,
+    gambar TEXT,
+    konten_json TEXT,
+    tags_json TEXT
+);
+
+CREATE TABLE IF NOT EXISTS announcements (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    tanggal TEXT,
+    judul TEXT,
+    deskripsi TEXT
+);
+
+CREATE TABLE IF NOT EXISTS gallery (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    judul TEXT,
+    kategori TEXT,
+    deskripsi TEXT,
+    lokasi TEXT,
+    gambar TEXT,
+    images_json TEXT
+);
+
+CREATE TABLE IF NOT EXISTS journals (
+    id TEXT PRIMARY KEY,
+    judul TEXT,
+    penulis TEXT,
+    abstrak TEXT,
+    kategori TEXT,
+    tahun TEXT,
+    volume TEXT,
+    link TEXT,
+    gambar TEXT
+);
+
+CREATE TABLE IF NOT EXISTS organizations (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    nama TEXT,
+    kategori TEXT,
+    logo TEXT,
+    gambar TEXT,
+    deskripsi TEXT,
+    detail_json TEXT
+);
+
+CREATE TABLE IF NOT EXISTS achievements (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    judul TEXT,
+    kategori TEXT,
+    tim TEXT,
+    tingkat TEXT,
+    tahun TEXT,
+    deskripsi TEXT,
+    gambar TEXT
+);
+
+CREATE TABLE IF NOT EXISTS career_programs (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    judul TEXT,
+    tipe TEXT,
+    durasi TEXT,
+    harga INTEGER,
+    mitra TEXT,
+    populer BOOLEAN,
+    gambar TEXT,
+    benefit_json TEXT
+);
+
+CREATE TABLE IF NOT EXISTS jobs (
+    id TEXT PRIMARY KEY,
+    posisi TEXT,
+    perusahaan TEXT,
+    lokasi TEXT,
+    tipe TEXT,
+    gaji TEXT,
+    logo TEXT,
+    detail_json TEXT
+);
+
+CREATE TABLE IF NOT EXISTS alumni (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    nama TEXT,
+    lulusan TEXT,
+    peran TEXT,
+    perusahaan TEXT,
+    kutipan TEXT,
+    gambar TEXT
+);
+
+CREATE TABLE IF NOT EXISTS notifications (
+    id TEXT PRIMARY KEY,
+    tipe TEXT,
+    judul TEXT,
+    pesan TEXT,
+    target TEXT,
+    gambar TEXT,
+    timestamp DATETIME DEFAULT CURRENT_TIMESTAMP
+);

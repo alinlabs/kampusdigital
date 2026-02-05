@@ -1,0 +1,63 @@
+
+[
+  {
+    "gelombang": [
+      {
+        "nama": "Gelombang 1 (Early Bird)",
+        "mulai": "01/01/2025",
+        "berakhir": "31/03/2025",
+        "status": "Tutup",
+        "deskripsi": "Jalur khusus tanpa tes untuk siswa berprestasi. Bebas biaya pendaftaran 50%.",
+        "ujian": "Seleksi Rapor / Sertifikat",
+        "pengumuman": "3 Hari Kerja"
+      },
+      {
+        "nama": "Gelombang 2 (Reguler CBT)",
+        "mulai": "01/04/2025",
+        "berakhir": "30/06/2025",
+        "status": "Buka",
+        "deskripsi": "Jalur umum menggunakan tes potensi akademik berbasis komputer (CBT).",
+        "ujian": "CBT Online (Sabtu & Minggu)",
+        "pengumuman": "1x24 Jam"
+      },
+      {
+        "nama": "Gelombang 3 (Mandiri)",
+        "mulai": "01/07/2025",
+        "berakhir": "31/08/2025",
+        "status": "Segera",
+        "deskripsi": "Kesempatan terakhir untuk bergabung sebelum masa orientasi (PKKMB).",
+        "ujian": "One Day Service",
+        "pengumuman": "Langsung di Tempat"
+      }
+    ],
+    "alur": [
+      { "step": "1", "judul": "Registrasi Akun", "deskripsi": "Buat akun pendaftaran menggunakan email aktif dan nomor WhatsApp." },
+      { "step": "2", "judul": "Lengkapi Biodata", "deskripsi": "Isi formulir data diri. Untuk pindahan, lampirkan transkrip nilai dari kampus asal." },
+      { "step": "3", "judul": "Pembayaran", "deskripsi": "Lakukan pembayaran biaya pendaftaran melalui Virtual Account atau Transfer Bank." },
+      { "step": "4", "judul": "Ujian / Konversi", "deskripsi": "Ikuti TPA (Reguler) atau Proses Konversi SKS (Pindahan/Alih Jenjang)." },
+      { "step": "5", "judul": "Daftar Ulang", "deskripsi": "Jika dinyatakan Lulus, lakukan daftar ulang dan pembayaran biaya awal kuliah." }
+    ],
+    "jalur": [
+      {
+        "judul": "Jalur Reguler",
+        "deskripsi": "Jalur penerimaan umum untuk lulusan SMA/SMK/MA sederajat melalui Tes Potensi Akademik.",
+        "fitur": ["Tes Potensi Akademik", "Pilihan Prodi Lengkap", "Biaya Terjangkau"]
+      },
+      {
+        "judul": "Beasiswa (Prestasi/KIPK)",
+        "deskripsi": "Jalur seleksi tanpa tes tulis melalui penelusuran minat, bakat, prestasi rapor/kejuaraan, atau program KIP Kuliah.",
+        "fitur": ["Tanpa Tes Tulis", "Bebas Biaya Pendaftaran", "Subsidi Biaya Kuliah"]
+      },
+      {
+        "judul": "Kelas Executive",
+        "deskripsi": "Program kuliah khusus bagi karyawan dan profesional dengan metode Hybrid Learning yang fleksibel.",
+        "fitur": ["Jadwal Fleksibel", "Hybrid Learning", "Networking Profesional"]
+      },
+      {
+        "judul": "Pindahan & Alih Jenjang",
+        "deskripsi": "Jalur khusus bagi mahasiswa pindahan dari kampus lain atau lulusan D3 yang ingin melanjutkan ke S1.",
+        "fitur": ["Konversi Nilai (SKS)", "Waktu Studi Efisien", "Tersedia Kelas Karyawan"]
+      }
+    ]
+  }
+]

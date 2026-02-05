@@ -1,0 +1,53 @@
+
+{
+  "rooms": [
+    {
+      "id": "ROOM-SAAS-GLOBAL",
+      "type": "SAAS",
+      "name": "SaaS Community Hub",
+      "deskripsi": "Forum lintas kampus seluruh Indonesia",
+      "participants": ["ALL_USERS"],
+      "icon": "Globe"
+    },
+    {
+      "id": "ROOM-CAMPUS-001",
+      "type": "CAMPUS",
+      "name": "Lounge Kampus Digital",
+      "deskripsi": "Informasi dan diskusi warga kampus",
+      "participants": ["ALL_CAMPUS_MEMBERS"],
+      "icon": "Building"
+    },
+    {
+      "id": "ROOM-PRIV-001",
+      "type": "PRIVATE",
+      "name": "Dr. H. Dadang (Dosen Wali)",
+      "participants": ["MHS-001", "DSN-001"],
+      "target_user_id": "DSN-001"
+    }
+  ],
+  "messages": [
+    {
+      "id": "MSG-001",
+      "room_id": "ROOM-SAAS-GLOBAL",
+      "sender_id": "MHS-UNPAD-001",
+      "text": "Halo salam kenal dari kampus sebelah! Ada yang ikut lomba gemastik?",
+      "timestamp": "2024-09-01T08:00:00Z",
+      "user_name": "Budi (UNPAD)",
+      "user_role": "Mahasiswa"
+    },
+    {
+      "id": "MSG-002",
+      "room_id": "JDL-001", 
+      "sender_id": "DSN-001",
+      "text": "Tugas analisis SWOT harap dikumpulkan sebelum jam 12 malam ya.",
+      "timestamp": "2024-09-20T10:30:00Z"
+    },
+    {
+      "id": "MSG-003",
+      "room_id": "JDL-001-CIRCLE", 
+      "sender_id": "MHS-002",
+      "text": "Eh guys, tugas Pak Dadang formatnya PDF atau Word ya?",
+      "timestamp": "2024-09-20T10:35:00Z"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+
+[
+  {
+    "id": "JRN-001",
+    "judul": "Analisis Pengaruh Digital Marketing Terhadap Keputusan Pembelian Gen-Z",
+    "penulis": "Dr. Sarah Smith, Alex Johnson",
+    "abstrak": "Penelitian ini bertujuan untuk mengetahui pengaruh pemasaran digital terhadap keputusan pembelian mahasiswa generasi Z di Purwakarta. Metode yang digunakan adalah kuantitatif dengan sampel 100 responden.",
+    "kategori": "Manajemen",
+    "tahun": "2024",
+    "volume": "Vol 12, No 1",
+    "link": "#",
+    "gambar": "https://placehold.co/400x500/e0e7ff/4338ca?text=Jurnal+Mgt"
+  },
+  {
+    "id": "JRN-002",
+    "judul": "Penerapan Standar Akuntansi Keuangan Entitas Mikro Kecil Menengah (SAK EMKM)",
+    "penulis": "Budi Santoso, S.E., M.Ak.",
+    "abstrak": "Studi kasus pada UMKM kuliner di Kabupaten Purwakarta mengenai kesiapan dan kendala penerapan SAK EMKM dalam pelaporan keuangan.",
+    "kategori": "Akuntansi",
+    "tahun": "2023",
+    "volume": "Vol 11, No 2",
+    "link": "#",
+    "gambar": "https://placehold.co/400x500/ecfccb/3f6212?text=Jurnal+Akt"
+  },
+  {
+    "id": "JRN-003",
+    "judul": "Strategi Pengembangan Pariwisata Berbasis Kearifan Lokal",
+    "penulis": "Tim Peneliti Kampus Digital",
+    "abstrak": "Potensi pariwisata lokal sebagai penggerak ekonomi daerah pasca pandemi COVID-19.",
+    "kategori": "Ekonomi Pembangunan",
+    "tahun": "2024",
+    "volume": "Vol 12, No 1",
+    "link": "#",
+    "gambar": "https://placehold.co/400x500/fef3c7/92400e?text=Jurnal+Eko"
+  },
+  {
+    "id": "JRN-004",
+    "judul": "Pengaruh Work From Home Terhadap Kinerja Karyawan",
+    "penulis": "Rina Melati, M.M.",
+    "abstrak": "Analisis komparatif kinerja karyawan sektor perbankan sebelum dan sesudah penerapan kebijakan WFH.",
+    "kategori": "Manajemen",
+    "tahun": "2023",
+    "volume": "Vol 11, No 2",
+    "link": "#",
+    "gambar": "https://placehold.co/400x500/cbd5e1/1e293b?text=Jurnal+HR"
+  },
+  {
+    "id": "JRN-005",
+    "judul": "Audit Forensik dalam Pencegahan Fraud Dana Desa",
+    "penulis": "Siti Rahmawati, M.Ak.",
+    "abstrak": "Peran akuntan publik dalam mengawasi dan mencegah penyalahgunaan dana desa di Jawa Barat.",
+    "kategori": "Akuntansi",
+    "tahun": "2022",
+    "volume": "Vol 10, No 1",
+    "link": "#",
+    "gambar": "https://placehold.co/400x500/fee2e2/991b1b?text=Jurnal+Audit"
+  },
+  {
+    "id": "JRN-006",
+    "judul": "Green Economy: Peluang dan Tantangan di Era Industri 4.0",
+    "penulis": "Prof. Irwan Setiawan",
+    "abstrak": "Tinjauan literatur mengenai implementasi ekonomi hijau pada sektor manufaktur.",
+    "kategori": "Ekonomi Pembangunan",
+    "tahun": "2024",
+    "volume": "Vol 12, No 2",
+    "link": "#",
+    "gambar": "https://placehold.co/400x500/d1fae5/065f46?text=Green+Eco"
+  }
+]

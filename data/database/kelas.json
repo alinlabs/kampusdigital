@@ -1,0 +1,35 @@
+
+[
+  {
+    "id": "KLS-A5",
+    "nama": "Manajemen A - Smt 5",
+    "angkatan": 2022,
+    "ruangan_default": "R.301 (Gedung A)",
+    "kuota": 40,
+    "mahasiswa_ids": ["MHS-001", "MHS-002"]
+  },
+  {
+    "id": "KLS-B3",
+    "nama": "Akuntansi B - Smt 3",
+    "angkatan": 2023,
+    "ruangan_default": "Lab Komputer 1",
+    "kuota": 30,
+    "mahasiswa_ids": ["MHS-003"]
+  },
+  {
+    "id": "KLS-A7",
+    "nama": "Manajemen A - Smt 7",
+    "angkatan": 2021,
+    "ruangan_default": "R.402 (Gedung B)",
+    "kuota": 45,
+    "mahasiswa_ids": ["MHS-001"]
+  },
+  {
+    "id": "KLS-C1",
+    "nama": "Manajemen C - Smt 1",
+    "angkatan": 2024,
+    "ruangan_default": "Lab Bahasa",
+    "kuota": 25,
+    "mahasiswa_ids": ["MHS-001", "MHS-003"]
+  }
+]

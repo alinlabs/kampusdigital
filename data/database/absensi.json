@@ -1,0 +1,47 @@
+
+[
+  {
+    "id": "ABS-001",
+    "kode_sesi": "KAMPUS-20240920-MK001",
+    "jadwal_id": "JDL-001",
+    "kelas_id": "KLS-A5",
+    "matakuliah_id": "MK-001",
+    "dosen_id": 1,
+    "tanggal": "20/09/2024",
+    "pertemuan_ke": 3,
+    "topik": "Analisis Lingkungan Eksternal",
+    "kehadiran": [
+      { "mahasiswa_id": "MHS-001", "status": "Hadir", "waktu_scan": "08:05" },
+      { "mahasiswa_id": "MHS-002", "status": "Hadir", "waktu_scan": "08:10" }
+    ]
+  },
+  {
+    "id": "ABS-002",
+    "kode_sesi": "KAMPUS-20240925-MK001",
+    "jadwal_id": "JDL-001",
+    "kelas_id": "KLS-A5",
+    "matakuliah_id": "MK-001",
+    "dosen_id": 1,
+    "tanggal": "25/09/2024",
+    "pertemuan_ke": 4,
+    "topik": "Strategi Tingkat Bisnis",
+    "kehadiran": [
+      { "mahasiswa_id": "MHS-001", "status": "Hadir", "waktu_scan": "08:02" },
+      { "mahasiswa_id": "MHS-002", "status": "Izin", "waktu_scan": "-" }
+    ]
+  },
+  {
+    "id": "ABS-003",
+    "kode_sesi": "KAMPUS-20240926-MK004",
+    "jadwal_id": "JDL-004",
+    "kelas_id": "KLS-C1",
+    "matakuliah_id": "MK-004",
+    "dosen_id": 5,
+    "tanggal": "26/09/2024",
+    "pertemuan_ke": 2,
+    "topik": "Business Correspondence",
+    "kehadiran": [
+      { "mahasiswa_id": "MHS-001", "status": "Sakit", "waktu_scan": "-" }
+    ]
+  }
+]

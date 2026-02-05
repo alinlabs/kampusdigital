@@ -1,0 +1,80 @@
+
+[
+  {
+    "id": "default",
+    "judul": "Kampus Digital - Universitas Terbaik Berbasis Teknologi",
+    "deskripsi": "Kampus Digital adalah pilihan tepat untuk kuliah online dan kelas karyawan. Program studi Manajemen dan Akuntansi terakreditasi, biaya terjangkau, dan lulusan siap kerja.",
+    "kata_kunci": [
+      "kampus digital", "kampus digital indonesia", "universitas teknologi", "kuliah online", "kuliah murah", 
+      "kuliah kelas karyawan", "kuliah sabtu minggu", "kuliah sambil kerja", "beasiswa kuliah 2025", 
+      "daftar kuliah online", "stie wikara", "sekolah tinggi ilmu ekonomi", "kampus di purwakarta", 
+      "jurusan manajemen terbaik", "jurusan akuntansi terbaik", "kampus merdeka", "pendidikan tinggi", 
+      "sarjana ekonomi", "magister manajemen", "blended learning", "hybrid learning", "edtech indonesia"
+    ],
+    "gambar": "https://i.ibb.co.com/Y41g2sD9/Generated-Image-February-02-2026-9-15-AM-1-removebg-preview.png",
+    "penulis": "Kampus Digital"
+  },
+  {
+    "id": "pages",
+    "beranda": {
+      "judul": "Kampus Digital - Solusi Kuliah Fleksibel & Berkualitas", 
+      "deskripsi": "Pusat pendidikan tinggi masa depan. Kampus Digital menyediakan program Sarjana dan Pascasarjana dengan metode Hybrid Learning. Daftar sekarang!",
+      "gambar": "https://i.ibb.co.com/Y41g2sD9/Generated-Image-February-02-2026-9-15-AM-1-removebg-preview.png" 
+    },
+    "tentang": {
+      "judul": "Tentang Kampus Digital - Sejarah & Visi Misi", 
+      "deskripsi": "Mengenal lebih dekat Kampus Digital. Sejarah berdiri, akreditasi institusi, dan visi misi mencetak talenta digital unggul di Indonesia.",
+      "gambar": "https://placehold.co/1200x630/1e293b/ffffff?text=Tentang+Kami"
+    },
+    "pendaftaran": {
+      "judul": "Pendaftaran Mahasiswa Baru (PMB) Online - Kampus Digital", 
+      "deskripsi": "Formulir pendaftaran kuliah online. Cek biaya kuliah, syarat pendaftaran, dan jadwal seleksi PMB Kampus Digital tahun ini.",
+      "gambar": "https://placehold.co/1200x630/4f46e5/ffffff?text=Daftar+Online"
+    },
+    "akademik": {
+      "judul": "Program Studi Sarjana & Pascasarjana - Kampus Digital", 
+      "deskripsi": "Pilihan jurusan kuliah favorit: S1 Manajemen, S1 Akuntansi, dan S2 Magister Manajemen. Kurikulum berbasis kompetensi industri.",
+      "gambar": "https://placehold.co/1200x630/1e293b/ffffff?text=Akademik"
+    },
+    "karir": {
+      "judul": "Pusat Karir & Pengembangan Skill - Kampus Digital", 
+      "deskripsi": "Layanan pelatihan skill digital dan sertifikasi untuk mahasiswa.",
+      "gambar": "https://placehold.co/1200x630/1e293b/ffffff?text=Karir"
+    },
+    "lowongan": {
+      "judul": "Lowongan Kerja & Magang - Kampus Digital", 
+      "deskripsi": "Temukan informasi lowongan kerja terbaru, magang, dan rekrutmen dari perusahaan mitra Kampus Digital.",
+      "gambar": "https://placehold.co/1200x630/1e293b/ffffff?text=Job+Vacancy"
+    },
+    "organisasi": {
+      "judul": "Unit Kegiatan Mahasiswa (UKM) - Kampus Digital", 
+      "deskripsi": "Kembangkan bakatmu di BEM, Hima, dan UKM Kampus Digital. Organisasi mahasiswa aktif dan berprestasi.",
+      "gambar": "https://placehold.co/1200x630/1e293b/ffffff?text=Komunitas"
+    },
+    "berita": {
+      "judul": "Berita Kampus & Artikel Pendidikan - Kampus Digital", 
+      "deskripsi": "Informasi terbaru seputar kegiatan kampus, prestasi mahasiswa, dan artikel edukasi ekonomi bisnis.",
+      "gambar": "https://placehold.co/1200x630/1e293b/ffffff?text=Berita"
+    },
+    "galeri": {
+      "judul": "Fasilitas & Galeri Foto - Kampus Digital", 
+      "deskripsi": "Lihat fasilitas gedung, laboratorium komputer, perpustakaan, dan kegiatan mahasiswa Kampus Digital.",
+      "gambar": "https://placehold.co/1200x630/1e293b/ffffff?text=Galeri"
+    },
+    "prestasi": {
+      "judul": "Prestasi Mahasiswa & Alumni - Kampus Digital", 
+      "deskripsi": "Daftar penghargaan dan kisah sukses alumni Kampus Digital yang berkarir di perusahaan nasional dan multinasional.",
+      "gambar": "https://placehold.co/1200x630/1e293b/ffffff?text=Prestasi"
+    },
+    "koperasi": {
+      "judul": "Koperasi Mahasiswa & Merchandise - Kampus Digital", 
+      "deskripsi": "Beli atribut kuliah, jaket almamater, dan merchandise resmi Kampus Digital secara online.",
+      "gambar": "https://placehold.co/1200x630/1e293b/ffffff?text=Store"
+    },
+    "ejournal": {
+      "judul": "E-Journal & Publikasi Ilmiah - Kampus Digital", 
+      "deskripsi": "Akses jurnal penelitian dosen dan mahasiswa. Referensi skripsi dan karya tulis ilmiah ekonomi bisnis.",
+      "gambar": "https://placehold.co/1200x630/1e293b/ffffff?text=E-Journal"
+    }
+  }
+]

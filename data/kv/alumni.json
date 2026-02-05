@@ -1,0 +1,35 @@
+
+[
+  { 
+    "nama": "Asep Sunarya", 
+    "lulusan": "S1 MGT 2010", 
+    "peran": "Kepala Cabang", 
+    "perusahaan": "Bank BJB", 
+    "kutipan": "Ilmu manajemen yang didapat sangat relevan dengan dunia perbankan saat ini.", 
+    "gambar": "https://placehold.co/400x400/1e293b/ffffff?text=AS" 
+  },
+  { 
+    "nama": "Dewi Sartika", 
+    "lulusan": "S1 AKT 2015", 
+    "peran": "Senior Auditor", 
+    "perusahaan": "KAP Big Four", 
+    "kutipan": "Dosen-dosen di Kampus Digital sangat suportif dalam membimbing karir mahasiswanya.", 
+    "gambar": "https://placehold.co/400x400/be123c/ffffff?text=DS" 
+  },
+  { 
+    "nama": "Rian Hidayat", 
+    "lulusan": "S1 MGT 2018", 
+    "peran": "Founder & CEO", 
+    "perusahaan": "Kopi Senja Group", 
+    "kutipan": "Bekal kewirausahaan dari kampus membuat saya berani memulai bisnis sendiri.", 
+    "gambar": "https://placehold.co/400x400/d97706/ffffff?text=RH" 
+  },
+  { 
+    "nama": "Siti Aminah", 
+    "lulusan": "S1 AKT 2012", 
+    "peran": "ASN / PNS", 
+    "perusahaan": "Pemkab Purwakarta", 
+    "kutipan": "Disiplin dan integritas adalah nilai utama yang saya pelajari di Kampus Digital.", 
+    "gambar": "https://placehold.co/400x400/047857/ffffff?text=SA" 
+  }
+]

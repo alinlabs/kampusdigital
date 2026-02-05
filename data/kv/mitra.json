@@ -1,0 +1,82 @@
+
+[
+  {
+    "nama": "Bank BJB",
+    "logo": "https://placehold.co/200x80/e2e8f0/1e293b?text=bank+bjb",
+    "website": "https://www.bankbjb.co.id",
+    "mulai_kerjasama": "15/01/2018",
+    "deskripsi": "Bank BJB mendukung digitalisasi sistem pembayaran kampus dan penyaluran beasiswa pendidikan daerah Jawa Barat.",
+    "sosial": {
+      "instagram": "https://instagram.com/bankbjb",
+      "linkedin": "https://linkedin.com/company/bankbjb",
+      "facebook": "https://facebook.com/bankbjb",
+      "tiktok": "https://tiktok.com/@bankbjb"
+    }
+  },
+  {
+    "nama": "Pemkab Purwakarta",
+    "logo": "https://placehold.co/200x80/e2e8f0/1e293b?text=PEMKAB",
+    "website": "https://purwakartakab.go.id",
+    "mulai_kerjasama": "20/05/2015",
+    "deskripsi": "Kerjasama strategis dalam pengembangan SDM daerah melalui program beasiswa putra daerah dan magang di instansi pemerintahan.",
+    "sosial": {
+      "instagram": "https://instagram.com/purwakartakab",
+      "facebook": "https://facebook.com/purwakartakab"
+    }
+  },
+  {
+    "nama": "Indosat Ooredoo",
+    "logo": "https://placehold.co/200x80/e2e8f0/1e293b?text=Indosat",
+    "website": "https://indosatooredoo.com",
+    "mulai_kerjasama": "10/03/2021",
+    "deskripsi": "Menyediakan infrastruktur jaringan internet kampus berkecepatan tinggi dan paket data khusus edukasi bagi mahasiswa.",
+    "sosial": {
+      "instagram": "https://instagram.com/indosat",
+      "linkedin": "https://linkedin.com/company/indosat"
+    }
+  },
+  {
+    "nama": "Indofood",
+    "logo": "https://placehold.co/200x80/e2e8f0/1e293b?text=Indofood",
+    "website": "https://www.indofood.com",
+    "mulai_kerjasama": "05/08/2019",
+    "deskripsi": "Program magang industri dan rekrutmen lulusan terbaik Kampus Digital untuk posisi manajemen trainee.",
+    "sosial": {
+        "linkedin": "https://linkedin.com/company/indofood"
+    }
+  },
+  {
+    "nama": "Pertamina",
+    "logo": "https://placehold.co/200x80/e2e8f0/1e293b?text=PERTAMINA",
+    "website": "https://www.pertamina.com",
+    "mulai_kerjasama": "12/11/2022",
+    "deskripsi": "Kolaborasi riset energi terbarukan dan program CSR pendidikan bagi mahasiswa teknik dan manajemen.",
+    "sosial": {
+        "instagram": "https://instagram.com/pertamina",
+        "linkedin": "https://linkedin.com/company/pertamina"
+    }
+  },
+  {
+    "nama": "Shopee Indonesia",
+    "logo": "https://placehold.co/200x80/e2e8f0/1e293b?text=Shopee",
+    "website": "https://shopee.co.id",
+    "mulai_kerjasama": "01/02/2023",
+    "deskripsi": "Mitra resmi dalam pengembangan kurikulum bisnis digital dan inkubator startup mahasiswa Kampus Digital.",
+    "sosial": {
+        "instagram": "https://instagram.com/shopee_id",
+        "tiktok": "https://tiktok.com/@shopee_id",
+        "linkedin": "https://linkedin.com/company/shopee"
+    }
+  },
+  {
+    "nama": "Telkom Indonesia",
+    "logo": "https://placehold.co/200x80/e2e8f0/1e293b?text=Telkom",
+    "website": "https://www.telkom.co.id",
+    "mulai_kerjasama": "17/09/2017",
+    "deskripsi": "Penyedia solusi Smart Campus dan laboratorium telekomunikasi tercanggih untuk praktik mahasiswa.",
+    "sosial": {
+        "instagram": "https://instagram.com/telkomindonesia",
+        "linkedin": "https://linkedin.com/company/telkom-indonesia"
+    }
+  }
+]

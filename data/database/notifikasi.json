@@ -1,0 +1,39 @@
+
+[
+  {
+    "id": "NOT-1725150000000",
+    "tipe": "INFO",
+    "judul": "Selamat Datang di KampusQu",
+    "pesan": "Sistem baru telah diperbarui dengan fitur monitoring nilai.",
+    "timestamp": "2024-09-01T08:00:00.000Z",
+    "target": "semua",
+    "gambar": ""
+  },
+  {
+    "id": "NOT-1725236400000",
+    "tipe": "WARNING",
+    "judul": "Maintenance Jadwal",
+    "pesan": "Server akan mengalami downtime pada hari Minggu pukul 00:00 - 02:00 WIB.",
+    "timestamp": "2024-09-05T10:00:00.000Z",
+    "target": "semua",
+    "gambar": ""
+  },
+  {
+    "id": "NOT-1725322800000",
+    "tipe": "AKADEMIK",
+    "judul": "Batas Pengisian Nilai",
+    "pesan": "Kepada seluruh Dosen, batas akhir input nilai adalah tanggal 20 September.",
+    "timestamp": "2024-09-10T09:00:00.000Z",
+    "target": "LECTURER",
+    "gambar": "https://placehold.co/600x400/e0e7ff/4338ca?text=Info+Dosen"
+  },
+  {
+    "id": "NOT-1725409200000",
+    "tipe": "SUCCESS",
+    "judul": "Pembayaran UKT Terverifikasi",
+    "pesan": "Terima kasih, pembayaran UKT Semester Ganjil Anda telah berhasil.",
+    "timestamp": "2024-09-12T14:30:00.000Z",
+    "target": "STUDENT",
+    "gambar": ""
+  }
+]

@@ -1,0 +1,93 @@
+
+[
+  {
+    "id": 1,
+    "judul": "Wisuda Sarjana Angkatan XIX: Mencetak Generasi Unggul",
+    "tanggal": "28/08/2024",
+    "penulis": "Humas",
+    "kategori": "Akademik",
+    "gambar": "https://placehold.co/1200x600/1e293b/ffffff?text=Wisuda+XIX",
+    "ringkasan": "Sebanyak 300 wisudawan resmi dilantik dalam sidang senat terbuka di Plaza Hotel Purwakarta.",
+    "isiKonten": [
+      "Sidang senat terbuka Kampus Digital melantik 300 wisudawan dari program studi Manajemen dan Akuntansi.",
+      "Ketua Kampus berpesan agar alumni menjaga nama baik almamater dan berkontribusi bagi pembangunan daerah.",
+      "Lulusan terbaik diraih oleh Anisa Putri dengan IPK 3.98."
+    ],
+    "tags": ["Wisuda", "Alumni", "Event"]
+  },
+  {
+    "id": 2,
+    "judul": "KPPM di Desa Wanayasa: Digitalisasi UMKM Lokal",
+    "tanggal": "15/07/2024",
+    "penulis": "LPPM",
+    "kategori": "Pengabdian",
+    "gambar": "https://placehold.co/1200x600/f59e0b/ffffff?text=KKN+Desa",
+    "ringkasan": "Mahasiswa membantu para pelaku UMKM desa dalam penerapan pemasaran digital dan pembukuan sederhana.",
+    "isiKonten": [
+      "Kelompok KKN Mahasiswa melakukan sosialisasi penggunaan marketplace kepada warga desa.",
+      "Warga desa sangat antusias mengikuti pelatihan pembuatan konten produk.",
+      "Program ini diharapkan dapat meningkatkan omzet penjualan produk lokal seperti manisan pala dan keramik."
+    ],
+    "tags": ["KPPM", "Pengabdian", "Mahasiswa", "UMKM"]
+  },
+  {
+    "id": 3,
+    "judul": "Seminar Nasional Ekonomi Kreatif 2024",
+    "tanggal": "10/09/2024",
+    "penulis": "BEM Kampus Digital",
+    "kategori": "Kegiatan",
+    "gambar": "https://placehold.co/1200x600/4f46e5/ffffff?text=Seminar+Nasional",
+    "ringkasan": "Menghadirkan narasumber dari Kementerian Parekraf dan praktisi bisnis digital terkemuka.",
+    "isiKonten": [
+      "Seminar ini membahas tantangan ekonomi di era 5.0.",
+      "Lebih dari 500 peserta memadati Auditorium Kampus Pusat.",
+      "Diskusi panel berlangsung hangat membahas peluang AI dalam bisnis."
+    ],
+    "tags": ["Seminar", "Ekonomi", "Event"]
+  },
+  {
+    "id": 4,
+    "judul": "Tim Futsal Kampus Digital Raih Juara 1 Liga Mahasiswa Jabar",
+    "tanggal": "05/10/2024",
+    "penulis": "UKM Olahraga",
+    "kategori": "Prestasi",
+    "gambar": "https://placehold.co/1200x600/10b981/ffffff?text=Juara+Futsal",
+    "ringkasan": "Prestasi membanggakan kembali ditorehkan oleh unit kegiatan mahasiswa bidang olahraga.",
+    "isiKonten": [
+      "Pertandingan final berlangsung sengit melawan Universitas Pendidikan Indonesia.",
+      "Skor akhir 3-2 membawa Kampus Digital FC naik ke podium juara.",
+      "Kapten tim, Rian, dinobatkan sebagai pemain terbaik turnamen."
+    ],
+    "tags": ["Olahraga", "Prestasi", "Mahasiswa"]
+  },
+  {
+    "id": 5,
+    "judul": "Beasiswa Bank Indonesia: Seleksi Tahap Akhir",
+    "tanggal": "12/10/2024",
+    "penulis": "Bagian Kemahasiswaan",
+    "kategori": "Akademik",
+    "gambar": "https://placehold.co/1200x600/06b6d4/ffffff?text=Beasiswa+BI",
+    "ringkasan": "50 Mahasiswa Kampus Digital lolos ke tahap wawancara untuk program beasiswa unggulan Bank Indonesia.",
+    "isiKonten": [
+      "Proses seleksi meliputi tes tertulis, wawancara, dan focus group discussion.",
+      "Penerima beasiswa akan bergabung dalam komunitas GenBI.",
+      "Pengumuman final akan dirilis minggu depan."
+    ],
+    "tags": ["Beasiswa", "Info", "Mahasiswa"]
+  },
+  {
+    "id": 6,
+    "judul": "Kerjasama Strategis dengan Bursa Efek Indonesia",
+    "tanggal": "20/10/2024",
+    "penulis": "Humas",
+    "kategori": "Kegiatan",
+    "gambar": "https://placehold.co/1200x600/be123c/ffffff?text=MoU+BEI",
+    "ringkasan": "Peresmian Galeri Investasi di kampus untuk meningkatkan literasi keuangan mahasiswa.",
+    "isiKonten": [
+      "Penandatanganan MoU dilakukan oleh Ketua Kampus dan Direktur Pengembangan BEI.",
+      "Fasilitas Galeri Investasi kini dibuka untuk umum di Lantai 2.",
+      "Mahasiswa dapat belajar trading saham secara real-time."
+    ],
+    "tags": ["Kerjasama", "Investasi", "Galeri"]
+  }
+]

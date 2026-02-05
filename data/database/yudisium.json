@@ -1,0 +1,48 @@
+
+[
+  {
+    "id": "YUD-001",
+    "mahasiswa_id": "MHS-001",
+    "nama": "Alex Johnson",
+    "nim": "202300123",
+    "prodi": "S1 Manajemen",
+    "ipk": 3.85,
+    "sks": 144,
+    "judul_skripsi": "Analisis Pengaruh Digital Marketing Terhadap Keputusan Pembelian Gen-Z",
+    "status_skripsi": "Lulus",
+    "status_keuangan": "Lunas",
+    "status_perpustakaan": "Bebas Pustaka",
+    "status_yudisium": "Menunggu SK",
+    "tanggal_daftar": "2024-08-15"
+  },
+  {
+    "id": "YUD-002",
+    "mahasiswa_id": "MHS-002",
+    "nama": "Rina Sartika",
+    "nim": "202200555",
+    "prodi": "S1 Manajemen",
+    "ipk": 3.92,
+    "sks": 144,
+    "judul_skripsi": "Strategi Pengembangan UMKM Pasca Pandemi",
+    "status_skripsi": "Lulus",
+    "status_keuangan": "Lunas",
+    "status_perpustakaan": "Bebas Pustaka",
+    "status_yudisium": "Disetujui",
+    "tanggal_daftar": "2024-08-10"
+  },
+  {
+    "id": "YUD-003",
+    "mahasiswa_id": "MHS-005",
+    "nama": "Budi Pratama",
+    "nim": "202100888",
+    "prodi": "S1 Akuntansi",
+    "ipk": 3.45,
+    "sks": 142,
+    "judul_skripsi": "Analisis Laporan Keuangan Sektor Publik",
+    "status_skripsi": "Revisi",
+    "status_keuangan": "Tunggakan",
+    "status_perpustakaan": "Belum",
+    "status_yudisium": "Ditolak",
+    "tanggal_daftar": "2024-08-20"
+  }
+]

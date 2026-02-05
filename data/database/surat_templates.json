@@ -1,0 +1,45 @@
+
+[
+  {
+    "id": "SRT-MHS-001",
+    "kategori": "STUDENT",
+    "label": "Surat Izin Tidak Masuk Kuliah",
+    "kode": "SK-IZIN",
+    "deskripsi": "Digunakan saat mahasiswa berhalangan hadir karena sakit atau keperluan mendesak.",
+    "fields": [
+      { "id": "dosen_wali", "label": "Nama Dosen Wali / Kaprodi", "type": "text", "placeholder": "Contoh: Budi Santoso, M.T." },
+      { "id": "tgl_mulai", "label": "Tanggal Mulai Izin", "type": "date", "placeholder": "" },
+      { "id": "tgl_selesai", "label": "Tanggal Selesai Izin", "type": "date", "placeholder": "" },
+      { "id": "alasan", "label": "Alasan Izin (Singkat)", "type": "textarea", "placeholder": "Contoh: Saya demam tinggi dan harus istirahat total." }
+    ],
+    "ai_prompt": "Buatkan surat izin tidak masuk kuliah yang resmi dan sopan. \n\nData Pengirim:\nNama: {user_name}\nNIM: {user_id}\nProdi: {user_prodi}\n\nKepada Yth: {dosen_wali}\n\nKonteks: Saya izin tidak bisa mengikuti perkuliahan dari tanggal {tgl_mulai} sampai {tgl_selesai}.\nAlasan detail: {alasan}.\n\nInstruksi:\n- Gunakan bahasa Indonesia baku yang sangat sopan.\n- Jangan sertakan tanggal surat dan tanda tangan di bagian bawah (karena akan di-generate sistem).\n- Fokus pada isi surat (paragraf pembuka, isi, penutup).\n- Buat narasi alasan yang meyakinkan namun jujur."
+  },
+  {
+    "id": "SRT-MHS-002",
+    "kategori": "STUDENT",
+    "label": "Surat Pengantar Magang / KP",
+    "kode": "SP-MGG",
+    "deskripsi": "Surat permohonan resmi ke perusahaan untuk melaksanakan Kerja Praktik.",
+    "fields": [
+      { "id": "perusahaan", "label": "Nama Perusahaan Tujuan", "type": "text", "placeholder": "PT. Telkom Indonesia" },
+      { "id": "alamat_perusahaan", "label": "Alamat Perusahaan", "type": "text", "placeholder": "Jl. Gatot Subroto No..." },
+      { "id": "divisi", "label": "Divisi/Posisi yang Dilamar", "type": "text", "placeholder": "Divisi IT / Frontend Developer" },
+      { "id": "durasi", "label": "Rencana Durasi", "type": "text", "placeholder": "3 Bulan (Agustus - Oktober)" }
+    ],
+    "ai_prompt": "Buatkan isi surat permohonan Kerja Praktik (Magang) resmi dari mahasiswa ke perusahaan.\n\nData Mahasiswa:\nNama: {user_name}\nNIM: {user_id}\nProdi: {user_prodi}\n\nTujuan:\nHRD {perusahaan}\nAlamat: {alamat_perusahaan}\n\nKonteks:\nSaya ingin melamar magang di posisi/divisi: {divisi}.\nRencana durasi: {durasi}.\n\nInstruksi:\n- Gunakan bahasa formal bisnis.\n- Jelaskan bahwa ini adalah syarat akademik kampus.\n- Sampaikan antusiasme untuk belajar dan berkontribusi.\n- Hanya buatkan bagian Body (Isi Surat), tanpa Kop Surat."
+  },
+  {
+    "id": "SRT-DSN-001",
+    "kategori": "LECTURER",
+    "label": "Surat Rekomendasi Mahasiswa",
+    "kode": "SR-REC",
+    "deskripsi": "Rekomendasi untuk mahasiswa yang melamar beasiswa atau studi lanjut.",
+    "fields": [
+      { "id": "nama_mhs", "label": "Nama Mahasiswa", "type": "text", "placeholder": "Nama lengkap mahasiswa" },
+      { "id": "nim_mhs", "label": "NIM Mahasiswa", "type": "text", "placeholder": "Nomor Induk Mahasiswa" },
+      { "id": "tujuan", "label": "Tujuan Rekomendasi", "type": "text", "placeholder": "Beasiswa LPDP / S2 UGM" },
+      { "id": "kelebihan", "label": "Poin Kelebihan Mahasiswa", "type": "textarea", "placeholder": "Rajin, IPK tinggi, aktif organisasi..." }
+    ],
+    "ai_prompt": "Buatkan surat rekomendasi akademik dari Dosen untuk Mahasiswa.\n\nData Dosen (Saya):\nNama: {user_name}\nNIDN: {user_id}\n\nMahasiswa yang direkomendasikan:\nNama: {nama_mhs}\nNIM: {nim_mhs}\n\nKeperluan: {tujuan}\n\nPoin-poin penilaian saya tentang mahasiswa ini: {kelebihan}\n\nInstruksi:\n- Buat nada yang sangat positif dan meyakinkan.\n- Jelaskan bahwa saya mengenal mahasiswa ini dengan baik.\n- Akhiri dengan kalimat rekomendasi yang kuat."
+  }
+]

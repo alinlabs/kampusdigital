@@ -1,0 +1,11 @@
+
+[
+  { "id": "k1", "nama": "Jaket Almamater Premium", "harga_normal": 350000, "harga_promo": 250000, "stok": 50, "kategori": "Fashion", "gambar": ["https://placehold.co/500x500/1e293b/FFF?text=Jaket"], "rating": 4.9, "penjual": "Koperasi Pusat Kampus Digital", "official": true },
+  { "id": "k2", "nama": "Buku Pengantar Bisnis", "harga_normal": 85000, "harga_promo": 0, "stok": 100, "kategori": "Buku", "gambar": ["https://placehold.co/500x500/cbd5e1/1e293b?text=Buku"], "rating": 4.8, "penjual": "Koperasi Pusat Kampus Digital", "official": true },
+  { "id": "k3", "nama": "Tumbler Kampus Exclusive", "harga_normal": 75000, "harga_promo": 50000, "stok": 200, "kategori": "Merchandise", "gambar": ["https://placehold.co/500x500/64748b/FFF?text=Tumbler"], "rating": 4.7, "penjual": "Koperasi Pusat Kampus Digital", "official": true },
+  { "id": "k4", "nama": "Totebag Hima Manajemen", "harga_normal": 45000, "harga_promo": 0, "stok": 30, "kategori": "Fashion", "gambar": ["https://placehold.co/500x500/f59e0b/FFF?text=Totebag"], "rating": 4.5, "penjual": "Hima Manajemen", "official": false },
+  { "id": "k5", "nama": "Stiker Pack Ekonomi", "harga_normal": 15000, "harga_promo": 10000, "stok": 100, "kategori": "Merchandise", "gambar": ["https://placehold.co/500x500/10b981/FFF?text=Stiker"], "rating": 4.6, "penjual": "Hima Manajemen", "official": false },
+  { "id": "k6", "nama": "Kalkulator Ilmiah Casio", "harga_normal": 250000, "harga_promo": 0, "stok": 15, "kategori": "Alat Tulis", "gambar": ["https://placehold.co/500x500/334155/FFF?text=Kalkulator"], "rating": 5.0, "penjual": "Koperasi Pusat Kampus Digital", "official": true },
+  { "id": "k7", "nama": "Notebook Binder A5", "harga_normal": 35000, "harga_promo": 30000, "stok": 50, "kategori": "Alat Tulis", "gambar": ["https://placehold.co/500x500/e2e8f0/000?text=Binder"], "rating": 4.4, "penjual": "Koperasi Pusat Kampus Digital", "official": true },
+  { "id": "k8", "nama": "Kaus Polo Kampus", "harga_normal": 120000, "harga_promo": 100000, "stok": 40, "kategori": "Fashion", "gambar": ["https://placehold.co/500x500/1d4ed8/FFF?text=Polo+Shirt"], "rating": 4.8, "penjual": "Koperasi Pusat Kampus Digital", "official": true }
+]

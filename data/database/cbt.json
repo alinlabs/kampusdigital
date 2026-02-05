@@ -1,0 +1,33 @@
+
+{
+  "statistik": {
+    "ujian_aktif": 5,
+    "bank_soal": 1250,
+    "peserta_hari_ini": 450
+  },
+  "jadwal_ujian": [
+    {
+      "id": "UJN-001",
+      "nama": "UTS Manajemen Strategik",
+      "tanggal": "2024-10-25",
+      "waktu": "08:00 - 10:00",
+      "ruang": "Lab Komputer 1",
+      "peserta": 40,
+      "status": "Berlangsung"
+    },
+    {
+      "id": "UJN-002",
+      "nama": "Kuis Akuntansi Biaya",
+      "tanggal": "2024-10-25",
+      "waktu": "13:00 - 14:00",
+      "ruang": "Online (CBT)",
+      "peserta": 35,
+      "status": "Terjadwal"
+    }
+  ],
+  "bank_soal": [
+    { "id": "BNK-001", "matkul": "Manajemen", "jumlah_soal": 500, "tipe": "Pilihan Ganda" },
+    { "id": "BNK-002", "matkul": "Akuntansi", "jumlah_soal": 300, "tipe": "Essay & Kasus" },
+    { "id": "BNK-003", "matkul": "Bahasa Inggris", "jumlah_soal": 450, "tipe": "Listening & Reading" }
+  ]
+}
